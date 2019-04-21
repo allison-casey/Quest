@@ -4,3 +4,6 @@
 [submodule "quest-api"]
 	path = quest-api
 	url = https://github.com/sjcasey21/quest-api.git
+[submodule "parse_quest_manual"]
+	path = parse_quest_manual
+	url = https://github.com/sjcasey21/parse_quest_manual.git
