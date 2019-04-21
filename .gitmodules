@@ -1,0 +1,6 @@
+[submodule "quest-client"]
+	path = quest-client
+	url = https://github.com/sjcasey21/quest-client.git
+[submodule "quest-api"]
+	path = quest-api
+	url = https://github.com/sjcasey21/quest-api.git
