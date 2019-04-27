@@ -1,0 +1,19 @@
+version: '3.1'
+services:
+    mongo: 
+        image: webhippie/mongodb
+        restart: always
+    questapi:
+        image: sjcasey/quest-api
+        restart: always
+        environment:
+            - MONGO_URL=mongo
+        ports:
+            - 8081:4000
+    questclient:
+        image: sjcasey/quest-client
+        restart: always
+        environment:
+            - ELM_APP_GRAPHQL_URL=questapi
+        ports:
+            - 80:80
