@@ -1,0 +1,6044 @@
+[
+  {
+    "category": "armor sets",
+    "content": [
+      {
+        "type": "clothing",
+        "items": [
+          {
+            "name": "all-nighter nightwear",
+            "dt": 0,
+            "value": 2,
+            "weight": 1,
+            "traits": [
+              "+1 end",
+              "+1 cha"
+            ]
+          },
+          {
+            "name": "brahmin-skin outfit",
+            "dt": 0,
+            "value": 2,
+            "weight": 2,
+            "traits": [
+              "+1 end",
+              "+1 agl"
+            ]
+          },
+          {
+            "name": "doctor fatigues",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 medicine"
+            ]
+          },
+          {
+            "name": "doctor\u2019s scrubs",
+            "dt": 0,
+            "value": 1,
+            "weight": 2,
+            "traits": [
+              "+1 int",
+              "+1 science"
+            ]
+          },
+          {
+            "name": "engineering jumpsuit",
+            "dt": 0,
+            "value": 1,
+            "weight": 2,
+            "traits": [
+              "+2 repair"
+            ]
+          },
+          {
+            "name": "lab technician uniform",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 science"
+            ]
+          },
+          {
+            "name": "mechanics overalls",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 repair"
+            ]
+          },
+          {
+            "name": "naughty nightwear",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 lck",
+              "+1 speech"
+            ]
+          },
+          {
+            "name": "pre-war businesswear",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+2 speech"
+            ]
+          },
+          {
+            "name": "pre-war casualwear",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 agl"
+            ]
+          },
+          {
+            "name": "sexy sleepwear",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 cha"
+            ]
+          },
+          {
+            "name": "trader outfit",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 barter"
+            ]
+          },
+          {
+            "name": "vault jumpsuit",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 melee weapons",
+              "+1 speech"
+            ]
+          },
+          {
+            "name": "brotherhood scribe robe",
+            "dt": 0,
+            "value": 1,
+            "weight": 2,
+            "traits": [
+              "+2 science"
+            ]
+          },
+          {
+            "name": "caravanner outfit",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 speech"
+            ]
+          },
+          {
+            "name": "enclave officer uniform",
+            "dt": 1,
+            "value": 2,
+            "weight": 2,
+            "traits": [
+              "+1 energy weapons"
+            ]
+          },
+          {
+            "name": "leather jacket",
+            "dt": 1,
+            "value": 2,
+            "weight": 1,
+            "traits": [
+              "+1 cha"
+            ]
+          },
+          {
+            "name": "mutant rags",
+            "dt": 1,
+            "value": 2,
+            "weight": 1,
+            "traits": [
+              "only usable by super mutants"
+            ]
+          },
+          {
+            "name": "trenchcoat",
+            "dt": 1,
+            "value": 2,
+            "weight": 2,
+            "traits": [
+              "+1 agl",
+              "+1 sneak"
+            ]
+          },
+          {
+            "name": "tribal garb",
+            "dt": 1,
+            "value": 2,
+            "weight": 2,
+            "traits": [
+              "+1 on attack rolls with thrown weapons"
+            ]
+          },
+          {
+            "name": "tunnel snakes outfit",
+            "dt": 1,
+            "value": 2,
+            "weight": 2,
+            "traits": [
+              "+1 melee weapons"
+            ]
+          },
+          {
+            "name": "wanderer outfit",
+            "dt": 1,
+            "value": 2,
+            "weight": 2,
+            "traits": [
+              "+1 end"
+            ]
+          },
+          {
+            "name": "duster",
+            "dt": 1,
+            "value": 2,
+            "weight": 3,
+            "traits": [
+              "+1 cha",
+              "+1 guns"
+            ]
+          },
+          {
+            "name": "explorer\u2019s gear",
+            "dt": 1,
+            "value": 3,
+            "weight": 3,
+            "traits": [
+              "+1 melee weapons",
+              "+1 guns"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "light armor",
+        "items": [
+          {
+            "name": "advanced radiation suit",
+            "dt": 2,
+            "value": 12,
+            "weight": 7,
+            "traits": [
+              "+4 rad res",
+              "bodysuit"
+            ]
+          },
+          {
+            "name": "radiation suit",
+            "dt": 2,
+            "value": 10,
+            "weight": 5,
+            "traits": [
+              "+2 rad res",
+              "bodysuit"
+            ]
+          },
+          {
+            "name": "great khan armor",
+            "dt": 2,
+            "value": 8,
+            "weight": 7,
+            "traits": [
+              "+1 survival"
+            ]
+          },
+          {
+            "name": "merc armor",
+            "dt": 2,
+            "value": 10,
+            "weight": 7,
+            "traits": [
+              "+1 melee weapons",
+              "+1 guns"
+            ]
+          },
+          {
+            "name": "raider armor",
+            "dt": 2,
+            "value": 9,
+            "weight": 15,
+            "traits": [
+              "-1 cha",
+              "+1 melee weapons"
+            ]
+          },
+          {
+            "name": "recon armor",
+            "dt": 2,
+            "value": 8,
+            "weight": 7,
+            "traits": [
+              "+1 sneak"
+            ]
+          },
+          {
+            "name": "armored vault jumpsuit",
+            "dt": 3,
+            "value": 19,
+            "weight": 15,
+            "traits": [
+              "+1 energy weapons",
+              "+1 guns"
+            ]
+          },
+          {
+            "name": "gladiator armor",
+            "dt": 3,
+            "value": 18,
+            "weight": 15,
+            "traits": [
+              "+1 agl",
+              "+1 unarmed"
+            ]
+          },
+          {
+            "name": "leather armor",
+            "dt": 3,
+            "value": 15,
+            "weight": 15,
+            "traits": []
+          },
+          {
+            "name": "legion armor",
+            "dt": 3,
+            "value": 17,
+            "weight": 15,
+            "traits": [
+              "+1 melee weapons"
+            ]
+          },
+          {
+            "name": "mutant chain armor",
+            "dt": 3,
+            "value": 14,
+            "weight": 15,
+            "traits": [
+              "only usable by super mutants"
+            ]
+          },
+          {
+            "name": "ncr trooper fatigues",
+            "dt": 3,
+            "value": 17,
+            "weight": 15,
+            "traits": [
+              "+1 guns"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "medium armor",
+        "items": [
+          {
+            "name": "bombshell armor",
+            "dt": 3,
+            "value": 14,
+            "weight": 20,
+            "traits": [
+              "+1 explosives"
+            ]
+          },
+          {
+            "name": "medic armor",
+            "dt": 3,
+            "value": 14,
+            "weight": 25,
+            "traits": [
+              "+1 medicine"
+            ]
+          },
+          {
+            "name": "mutant cage armor",
+            "dt": 3,
+            "value": 16,
+            "weight": 35,
+            "traits": [
+              "-1 agl",
+              "only usable by super mutants"
+            ]
+          },
+          {
+            "name": "raider brawler armor",
+            "dt": 3,
+            "value": 14,
+            "weight": 25,
+            "traits": [
+              "-1 cha",
+              "+1 unarmed"
+            ]
+          },
+          {
+            "name": "security armor",
+            "dt": 3,
+            "value": 16,
+            "weight": 20,
+            "traits": [
+              "+1 guns"
+            ]
+          },
+          {
+            "name": "survivalist armor",
+            "dt": 3,
+            "value": 14,
+            "weight": 25,
+            "traits": [
+              "+1 survival"
+            ]
+          },
+          {
+            "name": "combat armor",
+            "dt": 4,
+            "value": 26,
+            "weight": 25,
+            "traits": []
+          },
+          {
+            "name": "legion centurion armor",
+            "dt": 4,
+            "value": 30,
+            "weight": 35,
+            "traits": [
+              "+1 melee weapons"
+            ]
+          },
+          {
+            "name": "ncr ranger armor",
+            "dt": 4,
+            "value": 32,
+            "weight": 30,
+            "traits": [
+              "+1 guns"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heavy armor",
+        "items": [
+          {
+            "name": "enclave trooper armor",
+            "dt": 4,
+            "value": 30,
+            "weight": 40,
+            "traits": [
+              "-1 agl",
+              "+1 energy weapons"
+            ]
+          },
+          {
+            "name": "gamma shield armor",
+            "dt": 4,
+            "value": 30,
+            "weight": 45,
+            "traits": [
+              "-1 agl",
+              "+4 rad res"
+            ]
+          },
+          {
+            "name": "legion legate armor",
+            "dt": 4,
+            "value": 30,
+            "weight": 40,
+            "traits": [
+              "-1 agl",
+              "+1 melee weapons"
+            ]
+          },
+          {
+            "name": "metal armor",
+            "dt": 4,
+            "value": 25,
+            "weight": 40,
+            "traits": [
+              "-1 agl"
+            ]
+          },
+          {
+            "name": "ncr riot gear",
+            "dt": 5,
+            "value": 46,
+            "weight": 40,
+            "traits": [
+              "-1 agl",
+              "+1 guns"
+            ]
+          },
+          {
+            "name": "mutant motor-plate",
+            "dt": 5,
+            "value": 45,
+            "weight": 50,
+            "traits": [
+              "-2 agl",
+              "only usable by super mutants"
+            ]
+          },
+          {
+            "name": "salvaged power armor",
+            "dt": 5,
+            "value": 44,
+            "weight": 50,
+            "traits": [
+              "-2 agl"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "power armor",
+        "items": [
+          {
+            "name": "midwestern power armor",
+            "dt": 5,
+            "value": 45,
+            "weight": 50,
+            "traits": [
+              "-2 agl",
+              "+1 unarmed"
+            ]
+          },
+          {
+            "name": "outcast power armor",
+            "dt": 5,
+            "value": 43,
+            "weight": 50,
+            "traits": [
+              "-2 agl",
+              "+1 science"
+            ]
+          },
+          {
+            "name": "raider power armor",
+            "dt": 5,
+            "value": 45,
+            "weight": 50,
+            "traits": [
+              "-2 agl",
+              "+1 melee weapons"
+            ]
+          },
+          {
+            "name": "t-45d power armor",
+            "dt": 5,
+            "value": 41,
+            "weight": 50,
+            "traits": [
+              "-2 agl"
+            ]
+          },
+          {
+            "name": "t-57c power armor",
+            "dt": 5,
+            "value": 44,
+            "weight": 50,
+            "traits": [
+              "-2 agl",
+              "+1 explosives"
+            ]
+          },
+          {
+            "name": "tribal power armor",
+            "dt": 5,
+            "value": 43,
+            "weight": 50,
+            "traits": [
+              "-2 agl",
+              "+1 survival"
+            ]
+          },
+          {
+            "name": "hellfire power armor",
+            "dt": 6,
+            "value": 63,
+            "weight": 50,
+            "traits": [
+              "-2 agl",
+              "fire resistance"
+            ]
+          },
+          {
+            "name": "tesla power armor",
+            "dt": 6,
+            "value": 63,
+            "weight": 55,
+            "traits": [
+              "-2 agl",
+              "+1 energy weapons"
+            ]
+          },
+          {
+            "name": "x-01 power armor",
+            "dt": 6,
+            "value": 61,
+            "weight": 55,
+            "traits": [
+              "-1 cha",
+              "-2 agl"
+            ]
+          },
+          {
+            "name": "t-51b power armor",
+            "dt": 6,
+            "value": 70,
+            "weight": 60,
+            "traits": [
+              "+1 str",
+              "-3 agl"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "helmets",
+    "content": [
+      {
+        "type": "hats",
+        "items": [
+          {
+            "name": "1st recon beret",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 per"
+            ]
+          },
+          {
+            "name": "baseball cap",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 melee weapons"
+            ]
+          },
+          {
+            "name": "cowboy hat",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 guns"
+            ]
+          },
+          {
+            "name": "dapper gambler hat",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 lck"
+            ]
+          },
+          {
+            "name": "doctor cap",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 medicine"
+            ]
+          },
+          {
+            "name": "enclave officer hat",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 energy weapons"
+            ]
+          },
+          {
+            "name": "engineer cap",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 repair"
+            ]
+          },
+          {
+            "name": "park ranger hat",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 survival"
+            ]
+          },
+          {
+            "name": "party hat",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 cha"
+            ]
+          },
+          {
+            "name": "top hat",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 speech"
+            ]
+          },
+          {
+            "name": "trader hat",
+            "dt": 0,
+            "value": 1,
+            "weight": 1,
+            "traits": [
+              "+1 barter"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "light helmets",
+        "items": [
+          {
+            "name": "construction helmet",
+            "dt": 1,
+            "value": 2,
+            "weight": 2,
+            "traits": []
+          },
+          {
+            "name": "great khan helmet",
+            "dt": 1,
+            "value": 2,
+            "weight": 3,
+            "traits": [
+              "+1 survival"
+            ]
+          },
+          {
+            "name": "hockey mask",
+            "dt": 1,
+            "value": 2,
+            "weight": 3,
+            "traits": [
+              "+1 unarmed",
+              "close-faced"
+            ]
+          },
+          {
+            "name": "mutant aviator cap",
+            "dt": 1,
+            "value": 2,
+            "weight": 3,
+            "traits": [
+              "only usable by super mutants"
+            ]
+          },
+          {
+            "name": "ncr goggles helmet",
+            "dt": 1,
+            "value": 2,
+            "weight": 3,
+            "traits": [
+              "+1 guns"
+            ]
+          },
+          {
+            "name": "raider fiend helmet",
+            "dt": 1,
+            "value": 2,
+            "weight": 3,
+            "traits": [
+              "-1 cha",
+              "+1 melee weapons"
+            ]
+          },
+          {
+            "name": "recon helmet",
+            "dt": 1,
+            "value": 2,
+            "weight": 3,
+            "traits": [
+              "+1 sneak"
+            ]
+          },
+          {
+            "name": "motorcycle helmet",
+            "dt": 1,
+            "value": 2,
+            "weight": 3,
+            "traits": []
+          },
+          {
+            "name": "welder\u2019s mask",
+            "dt": 1,
+            "value": 2,
+            "weight": 4,
+            "traits": [
+              "+1 repair",
+              "close-faced"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "medium helmets",
+        "items": [
+          {
+            "name": "combat helmet",
+            "dt": 1,
+            "value": 2,
+            "weight": 5,
+            "traits": []
+          },
+          {
+            "name": "mutant cage helmet",
+            "dt": 1,
+            "value": 2,
+            "weight": 6,
+            "traits": [
+              "only usable by super mutants"
+            ]
+          },
+          {
+            "name": "legion centurion helmet",
+            "dt": 2,
+            "value": 6,
+            "weight": 6,
+            "traits": [
+              "+1 melee weapons",
+              "close-faced"
+            ]
+          },
+          {
+            "name": "ncr ranger helmet",
+            "dt": 2,
+            "value": 6,
+            "weight": 6,
+            "traits": [
+              "+1 guns",
+              "close-faced"
+            ]
+          },
+          {
+            "name": "raider blastmaster helmet",
+            "dt": 2,
+            "value": 8,
+            "weight": 6,
+            "traits": [
+              "+1 guns",
+              "+1 explosives",
+              "close-faced"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heavy helmets",
+        "items": [
+          {
+            "name": "enclave trooper helmet",
+            "dt": 2,
+            "value": 7,
+            "weight": 8,
+            "traits": [
+              "+1 energy weapons",
+              "close-faced"
+            ]
+          },
+          {
+            "name": "legion legate helmet",
+            "dt": 2,
+            "value": 7,
+            "weight": 8,
+            "traits": [
+              "+1 melee weapons",
+              "close-faced"
+            ]
+          },
+          {
+            "name": "metal helmet",
+            "dt": 2,
+            "value": 5,
+            "weight": 8,
+            "traits": []
+          },
+          {
+            "name": "mutant bladed helmet",
+            "dt": 2,
+            "value": 7,
+            "weight": 10,
+            "traits": [
+              "only usable by super mutants"
+            ]
+          },
+          {
+            "name": "ncr riot gear helmet",
+            "dt": 3,
+            "value": 18,
+            "weight": 8,
+            "traits": [
+              "+1 guns",
+              "close-faced"
+            ]
+          },
+          {
+            "name": "salvaged power helmet",
+            "dt": 3,
+            "value": 16,
+            "weight": 9,
+            "traits": [
+              "-1 agl",
+              "close-faced"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "power helmets",
+        "items": [
+          {
+            "name": "hellfire power helmet",
+            "dt": 3,
+            "value": 17,
+            "weight": 11,
+            "traits": [
+              "-1 agl",
+              "fire resistance",
+              "close-faced"
+            ]
+          },
+          {
+            "name": "midwestern power helmet",
+            "dt": 3,
+            "value": 16,
+            "weight": 10,
+            "traits": [
+              "-1 agl",
+              "+1 unarmed",
+              "close-faced"
+            ]
+          },
+          {
+            "name": "outcast power helmet",
+            "dt": 3,
+            "value": 14,
+            "weight": 10,
+            "traits": [
+              "-1 agl",
+              "+1 science",
+              "close-faced"
+            ]
+          },
+          {
+            "name": "raider power helmet",
+            "dt": 3,
+            "value": 15,
+            "weight": 10,
+            "traits": [
+              "-1 agl",
+              "+1 melee weapons",
+              "close-faced"
+            ]
+          },
+          {
+            "name": "t-45d power helmet",
+            "dt": 3,
+            "value": 13,
+            "weight": 10,
+            "traits": [
+              "-1 agl",
+              "close-faced"
+            ]
+          },
+          {
+            "name": "t-57c power helmet",
+            "dt": 3,
+            "value": 15,
+            "weight": 10,
+            "traits": [
+              "-1 agl",
+              "+1 explosives",
+              "close-faced"
+            ]
+          },
+          {
+            "name": "tesla power helmet",
+            "dt": 3,
+            "value": 16,
+            "weight": 11,
+            "traits": [
+              "-1 agl",
+              "+1 energy weapons",
+              "close-faced"
+            ]
+          },
+          {
+            "name": "tribal power helmet",
+            "dt": 3,
+            "value": 15,
+            "weight": 10,
+            "traits": [
+              "-1 agl",
+              "+1 survival",
+              "close-faced"
+            ]
+          },
+          {
+            "name": "x-01 power helmet",
+            "dt": 3,
+            "value": 13,
+            "weight": 11,
+            "traits": [
+              "-1 cha",
+              "-1 agl",
+              "close-faced"
+            ]
+          },
+          {
+            "name": "t-51b power helmet",
+            "dt": 4,
+            "value": 25,
+            "weight": 12,
+            "traits": [
+              "-1 agl",
+              "close-faced"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "melee weapons",
+    "content": [
+      {
+        "type": "melee weapon glossary",
+        "items": [
+          {
+            "term": "buzzsaw",
+            "effects": "requires a half action to rev-up the weapon before it can be used."
+          },
+          {
+            "term": "finesse weapon",
+            "effects": "scales from agility instead of strength."
+          },
+          {
+            "term": "reach weapon",
+            "effects": "+5 feet of range but suffer disadvantage on targets within 5 feet."
+          }
+        ]
+      },
+      {
+        "type": "unarmed weapons",
+        "items": [
+          {
+            "name": "deathclaw gauntlet",
+            "dmg": [
+              "4",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 6,
+            "value": 15,
+            "weight": 5,
+            "traits": [
+              "ignores dt"
+            ]
+          },
+          {
+            "name": "industrial hand",
+            "dmg": [
+              "4",
+              "+1d8"
+            ],
+            "acc": -1,
+            "str": 6,
+            "value": 14,
+            "weight": 7,
+            "traits": [
+              "buzzsaw"
+            ]
+          },
+          {
+            "name": "bladed gauntlet",
+            "dmg": [
+              "6",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 2,
+            "value": 8,
+            "weight": 1,
+            "traits": [
+              "deals slash damage"
+            ]
+          },
+          {
+            "name": "brass knuckles",
+            "dmg": [
+              "6",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 1,
+            "value": 7,
+            "weight": 1,
+            "traits": []
+          },
+          {
+            "name": "spiked knuckles",
+            "dmg": [
+              "6",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 2,
+            "value": 8,
+            "weight": 1,
+            "traits": [
+              "deals pierce damage"
+            ]
+          },
+          {
+            "name": "ballistics fist",
+            "dmg": [
+              "5",
+              "+1d8"
+            ],
+            "acc": -1,
+            "str": 7,
+            "value": 15,
+            "weight": 7,
+            "traits": []
+          },
+          {
+            "name": "power fist",
+            "dmg": [
+              "7",
+              "+1d6"
+            ],
+            "acc": -1,
+            "str": 6,
+            "value": 14,
+            "weight": 6,
+            "traits": []
+          }
+        ]
+      },
+      {
+        "type": "slash weapons",
+        "subtype": "one-handed",
+        "items": [
+          {
+            "name": "straight razor",
+            "dmg": [
+              "5",
+              "+1d4"
+            ],
+            "acc": 1,
+            "str": 2,
+            "value": 3,
+            "weight": 1,
+            "traits": []
+          },
+          {
+            "name": "kitchen knife",
+            "dmg": [
+              "5",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 2,
+            "value": 3,
+            "weight": 1,
+            "traits": []
+          },
+          {
+            "name": "meat cleaver",
+            "dmg": [
+              "5",
+              "+1d6"
+            ],
+            "acc": -1,
+            "str": 3,
+            "value": 4,
+            "weight": 2,
+            "traits": []
+          },
+          {
+            "name": "ripper",
+            "dmg": [
+              "5",
+              "+1d8"
+            ],
+            "acc": -1,
+            "str": 6,
+            "value": 18,
+            "weight": 4,
+            "traits": [
+              "buzzsaw"
+            ]
+          },
+          {
+            "name": "switch blade",
+            "dmg": [
+              "5",
+              "+1d4"
+            ],
+            "acc": 1,
+            "str": 3,
+            "value": 2,
+            "weight": 1,
+            "traits": []
+          },
+          {
+            "name": "combat knife",
+            "dmg": [
+              "6",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 3,
+            "value": 7,
+            "weight": 2,
+            "traits": []
+          },
+          {
+            "name": "hatchet",
+            "dmg": [
+              "6",
+              "+1d6"
+            ],
+            "acc": -1,
+            "str": 4,
+            "value": 8,
+            "weight": 4,
+            "traits": []
+          },
+          {
+            "name": "shishkebab",
+            "dmg": [
+              "5",
+              "+1d8"
+            ],
+            "acc": -1,
+            "str": 8,
+            "value": 20,
+            "weight": 7,
+            "traits": [
+              "inflict 3 rounds of burning"
+            ]
+          },
+          {
+            "name": "trench knife",
+            "dmg": [
+              "6",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 4,
+            "value": 7,
+            "weight": 3,
+            "traits": [
+              "included brass knuckles"
+            ]
+          },
+          {
+            "name": "chinese officer sword",
+            "dmg": [
+              "7",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 6,
+            "value": 13,
+            "weight": 3,
+            "traits": []
+          },
+          {
+            "name": "katana",
+            "dmg": [
+              "7",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 6,
+            "value": 14,
+            "weight": 3,
+            "traits": [
+              "finesse weapon"
+            ]
+          },
+          {
+            "name": "machete",
+            "dmg": [
+              "7",
+              "+1d6"
+            ],
+            "acc": -1,
+            "str": 7,
+            "value": 14,
+            "weight": 4,
+            "traits": []
+          }
+        ]
+      },
+      {
+        "subtype": "two-handed",
+        "items": [
+          {
+            "name": "auto axe",
+            "dmg": [
+              "10",
+              "+1d8"
+            ],
+            "acc": -1,
+            "str": 12,
+            "value": 25,
+            "weight": 12,
+            "traits": [
+              "buzzsaw"
+            ]
+          },
+          {
+            "name": "fire axe",
+            "dmg": [
+              "12",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 8,
+            "value": 13,
+            "weight": 7,
+            "traits": []
+          },
+          {
+            "name": "stop sign axe",
+            "dmg": [
+              "12",
+              "+1d6"
+            ],
+            "acc": -1,
+            "str": 9,
+            "value": 14,
+            "weight": 8,
+            "traits": []
+          },
+          {
+            "name": "gardening scythe",
+            "dmg": [
+              "13",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 10,
+            "value": 20,
+            "weight": 7,
+            "traits": [
+              "finesse weapon",
+              "reach weapon"
+            ]
+          },
+          {
+            "name": "bumper sword",
+            "dmg": [
+              "14",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 12,
+            "value": 25,
+            "weight": 11,
+            "traits": []
+          },
+          {
+            "name": "vertibird blade",
+            "dmg": [
+              "14",
+              "+1d6"
+            ],
+            "acc": -1,
+            "str": 14,
+            "value": 26,
+            "weight": 13,
+            "traits": [
+              "-1 agl"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blunt weapons",
+        "subtype": "one-handed",
+        "items": [
+          {
+            "name": "cattle prod",
+            "dmg": [
+              "3",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 3,
+            "value": 3,
+            "weight": 1,
+            "traits": [
+              "inflict a 1-round stagger"
+            ]
+          },
+          {
+            "name": "dress cane",
+            "dmg": [
+              "4",
+              "+1d4"
+            ],
+            "acc": 1,
+            "str": 3,
+            "value": 2,
+            "weight": 1,
+            "traits": []
+          },
+          {
+            "name": "pool cue",
+            "dmg": [
+              "5",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 3,
+            "value": 3,
+            "weight": 2,
+            "traits": [
+              "reach weapon"
+            ]
+          },
+          {
+            "name": "rolling pin",
+            "dmg": [
+              "5",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 3,
+            "value": 2,
+            "weight": 1,
+            "traits": []
+          },
+          {
+            "name": "golf club",
+            "dmg": [
+              "6",
+              "+1d4"
+            ],
+            "acc": -1,
+            "str": 4,
+            "value": 8,
+            "weight": 2,
+            "traits": [
+              "reach weapon"
+            ]
+          },
+          {
+            "name": "police baton",
+            "dmg": [
+              "6",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 4,
+            "value": 7,
+            "weight": 2,
+            "traits": []
+          },
+          {
+            "name": "tire iron",
+            "dmg": [
+              "6",
+              "+1d6"
+            ],
+            "acc": -1,
+            "str": 4,
+            "value": 8,
+            "weight": 2,
+            "traits": []
+          },
+          {
+            "name": "metal bat",
+            "dmg": [
+              "7",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 5,
+            "value": 14,
+            "weight": 4,
+            "traits": []
+          },
+          {
+            "name": "raider mace",
+            "dmg": [
+              "7",
+              "+1d6"
+            ],
+            "acc": -1,
+            "str": 6,
+            "value": 14,
+            "weight": 5,
+            "traits": []
+          }
+        ]
+      },
+      {
+        "subtype": "two-handed",
+        "items": [
+          {
+            "name": "nail board",
+            "dmg": [
+              "12",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 8,
+            "value": 12,
+            "weight": 7,
+            "traits": []
+          },
+          {
+            "name": "sledgehammer",
+            "dmg": [
+              "12",
+              "+1d6"
+            ],
+            "acc": -1,
+            "str": 9,
+            "value": 13,
+            "weight": 8,
+            "traits": []
+          },
+          {
+            "name": "road sign",
+            "dmg": [
+              "13",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 10,
+            "value": 18,
+            "weight": 9,
+            "traits": []
+          },
+          {
+            "name": "cinderblock hammer",
+            "dmg": [
+              "14",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 12,
+            "value": 25,
+            "weight": 10,
+            "traits": []
+          },
+          {
+            "name": "super sledge",
+            "dmg": [
+              "14",
+              "+1d6"
+            ],
+            "acc": -1,
+            "str": 14,
+            "value": 26,
+            "weight": 12,
+            "traits": [
+              "-1 agl"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "pierce weapons",
+        "subtype": "one-handed",
+        "items": [
+          {
+            "name": "shiv",
+            "dmg": [
+              "3",
+              "+1d4"
+            ],
+            "acc": 1,
+            "str": 2,
+            "value": 1,
+            "weight": 1,
+            "traits": []
+          },
+          {
+            "name": "stiletto knife",
+            "dmg": [
+              "4",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 3,
+            "value": 2,
+            "weight": 2,
+            "traits": []
+          },
+          {
+            "name": "combat knife spear",
+            "dmg": [
+              "5",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 3,
+            "value": 3,
+            "weight": 1,
+            "traits": []
+          },
+          {
+            "name": "rebar spear",
+            "dmg": [
+              "5",
+              "+1d6"
+            ],
+            "acc": -1,
+            "str": 4,
+            "value": 7,
+            "weight": 2,
+            "traits": [
+              "reach weapon"
+            ]
+          },
+          {
+            "name": "bone spear",
+            "dmg": [
+              "6",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 5,
+            "value": 14,
+            "weight": 2,
+            "traits": [
+              "reach weapon"
+            ]
+          }
+        ]
+      },
+      {
+        "subtype": "two-handed",
+        "items": [
+          {
+            "name": "pitchfork",
+            "dmg": [
+              "11",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 8,
+            "value": 10,
+            "weight": 7,
+            "traits": [
+              "reach weapon"
+            ]
+          },
+          {
+            "name": "harpoon",
+            "dmg": [
+              "11",
+              "+1d6"
+            ],
+            "acc": -1,
+            "str": 9,
+            "value": 10,
+            "weight": 8,
+            "traits": [
+              "reach weapon"
+            ]
+          },
+          {
+            "name": "lead pike",
+            "dmg": [
+              "12",
+              "+1d4"
+            ],
+            "acc": 0,
+            "str": 10,
+            "value": 13,
+            "weight": 9,
+            "traits": [
+              "reach weapon"
+            ]
+          },
+          {
+            "name": "thermic lance",
+            "dmg": [
+              "9",
+              "+1d8"
+            ],
+            "acc": -1,
+            "str": 12,
+            "value": 14,
+            "weight": 10,
+            "traits": [
+              "inflict 3 rounds of burning"
+            ]
+          },
+          {
+            "name": "piston spear",
+            "dmg": [
+              "13",
+              "+1d6"
+            ],
+            "acc": -1,
+            "str": 14,
+            "value": 26,
+            "weight": 12,
+            "traits": [
+              "-1 agl",
+              "reach weapon"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "shields",
+        "items": [
+          {
+            "name": "trash shield",
+            "dt": 1,
+            "def": 1,
+            "str": 1,
+            "value": 3,
+            "weight": 1,
+            "traits": []
+          },
+          {
+            "name": "scrap shield",
+            "dt": 1,
+            "def": 2,
+            "str": 2,
+            "value": 5,
+            "weight": 2,
+            "traits": []
+          },
+          {
+            "name": "leather shield",
+            "dt": 1,
+            "def": 1,
+            "str": 3,
+            "value": 5,
+            "weight": 3,
+            "traits": [
+              "ballistic resistance"
+            ]
+          },
+          {
+            "name": "metal shield",
+            "dt": 1,
+            "def": 1,
+            "str": 3,
+            "value": 5,
+            "weight": 3,
+            "traits": [
+              "energy resistance"
+            ]
+          },
+          {
+            "name": "security shield",
+            "dt": 2,
+            "def": 2,
+            "str": 5,
+            "value": 7,
+            "weight": 5,
+            "traits": []
+          },
+          {
+            "name": "riot shield",
+            "dt": 2,
+            "def": 1,
+            "str": 6,
+            "value": 10,
+            "weight": 7,
+            "traits": [
+              "ballistic resistance"
+            ]
+          },
+          {
+            "name": "bunker shield",
+            "dt": 2,
+            "def": 1,
+            "str": 6,
+            "value": 10,
+            "weight": 7,
+            "traits": [
+              "energy resistance"
+            ]
+          },
+          {
+            "name": "tank shield",
+            "dt": 3,
+            "def": 1,
+            "str": 10,
+            "value": 14,
+            "weight": 15,
+            "traits": [
+              "-1 agl"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "ranged weapons",
+    "content": [
+      {
+        "type": "ranged weapon glossary",
+        "items": [
+          {
+            "term": "automatic",
+            "effects": "able to use suppression and other abilities reliant on automatic weapons."
+          },
+          {
+            "term": "cryo weapon",
+            "effects": "inflicts 1-round stagger on hit."
+          },
+          {
+            "term": "full blast",
+            "effects": "shoot both barrels of a shotgun and add +1d6 bonus damage."
+          },
+          {
+            "term": "gauss weapon",
+            "effects": "charge the weapon at the cost of a half action and deal +1d8 bonus damage (does not stack)."
+          },
+          {
+            "term": "laser weapon",
+            "effects": "damage scales with intelligence and suffers disadvantage on damage rolls."
+          },
+          {
+            "term": "plasma weapon",
+            "effects": "damage scales with intelligence and gains advantage on damage rolls."
+          },
+          {
+            "term": "revolver",
+            "effects": "deals +1d10 bonus crit damage but cannot use regular attachments."
+          },
+          {
+            "term": "tesla weapon",
+            "effects": "deals 1d16 energy damage to enemies within 10 feet of your target."
+          }
+        ]
+      },
+      {
+        "type": "pistols",
+        "items": [
+          {
+            "name": "dart gun",
+            "dmg": [
+              "1"
+            ],
+            "acc": 1,
+            "mag": 1,
+            "ammo": "darts",
+            "str": 2,
+            "value": 5,
+            "weight": 1,
+            "traits": [
+              "inflict 5-round poison"
+            ]
+          },
+          {
+            "name": "yk32 pulse pistol",
+            "dmg": [
+              "3",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 3,
+            "ammo": "mf cells",
+            "str": 3,
+            "value": 9,
+            "weight": 2,
+            "traits": [
+              "pulse weapon"
+            ]
+          },
+          {
+            "name": ".32 pistol",
+            "dmg": [
+              "5",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 3,
+            "ammo": ".32",
+            "str": 4,
+            "value": 3,
+            "weight": 2,
+            "traits": [
+              "revolver"
+            ]
+          },
+          {
+            "name": "9mm pistol",
+            "dmg": [
+              "5",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 5,
+            "ammo": "9mm",
+            "str": 4,
+            "value": 3,
+            "weight": 2,
+            "traits": []
+          },
+          {
+            "name": "chinese pistol",
+            "dmg": [
+              "5",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": "10mm",
+            "str": 5,
+            "value": 4,
+            "weight": 3,
+            "traits": []
+          },
+          {
+            "name": "laser pistol",
+            "dmg": [
+              "5"
+            ],
+            "acc": 1,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 5,
+            "value": 16,
+            "weight": 2,
+            "traits": [
+              "laser weapon"
+            ]
+          },
+          {
+            "name": "pipe pistol",
+            "dmg": [
+              "5",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": ".32",
+            "str": 4,
+            "value": 3,
+            "weight": 2,
+            "traits": []
+          },
+          {
+            "name": "plasma pistol",
+            "dmg": [
+              "5",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 6,
+            "value": 16,
+            "weight": 5,
+            "traits": [
+              "plasma weapon"
+            ]
+          },
+          {
+            "name": "silenced .22",
+            "dmg": [
+              "5",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 3,
+            "ammo": ".22lr",
+            "str": 5,
+            "value": 5,
+            "weight": 2,
+            "traits": [
+              "included silencer"
+            ]
+          },
+          {
+            "name": ".223 pistol",
+            "dmg": [
+              "6",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": ".223",
+            "str": 6,
+            "value": 8,
+            "weight": 5,
+            "traits": [
+              "revolver"
+            ]
+          },
+          {
+            "name": "10mm pistol",
+            "dmg": [
+              "6",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "10mm",
+            "str": 5,
+            "value": 7,
+            "weight": 3,
+            "traits": []
+          },
+          {
+            "name": "cowboy revolver",
+            "dmg": [
+              "6",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 3,
+            "ammo": ".357",
+            "str": 5,
+            "value": 8,
+            "weight": 3,
+            "traits": [
+              "revolver"
+            ]
+          },
+          {
+            "name": "m1911",
+            "dmg": [
+              "6",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": ".45 acp",
+            "str": 5,
+            "value": 8,
+            "weight": 3,
+            "traits": []
+          },
+          {
+            "name": "ppk12 gauss pistol",
+            "dmg": [
+              "5",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 3,
+            "ammo": "2mm ec",
+            "str": 6,
+            "value": 16,
+            "weight": 4,
+            "traits": [
+              "gauss weapon"
+            ]
+          },
+          {
+            "name": ".44 magnum",
+            "dmg": [
+              "7",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 3,
+            "ammo": ".44",
+            "str": 8,
+            "value": 14,
+            "weight": 6,
+            "traits": [
+              "revolver"
+            ]
+          },
+          {
+            "name": "desert eagle",
+            "dmg": [
+              "7",
+              "+1d6"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": ".50 mg",
+            "str": 9,
+            "value": 15,
+            "weight": 6,
+            "traits": []
+          }
+        ]
+      },
+      {
+        "type": "submachine guns",
+        "items": [
+          {
+            "name": "9mm smg",
+            "dmg": [
+              "4",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 5,
+            "ammo": "9mm",
+            "str": 3,
+            "value": 1,
+            "weight": 2,
+            "traits": []
+          },
+          {
+            "name": "bastard smg",
+            "dmg": [
+              "4",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 3,
+            "ammo": ".32",
+            "str": 4,
+            "value": 2,
+            "weight": 3,
+            "traits": []
+          },
+          {
+            "name": "tommy gun",
+            "dmg": [
+              "4",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 6,
+            "ammo": ".45 acp",
+            "str": 3,
+            "value": 4,
+            "weight": 2,
+            "traits": []
+          },
+          {
+            "name": "laser rcw",
+            "dmg": [
+              "4"
+            ],
+            "acc": 1,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 5,
+            "value": 12,
+            "weight": 2,
+            "traits": [
+              "laser weapon"
+            ]
+          },
+          {
+            "name": "plasma-gat",
+            "dmg": [
+              "4",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 6,
+            "value": 12,
+            "weight": 5,
+            "traits": [
+              "plasma weapon"
+            ]
+          },
+          {
+            "name": "silenced .22 smg",
+            "dmg": [
+              "4",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 3,
+            "ammo": ".22lr",
+            "str": 3,
+            "value": 5,
+            "weight": 3,
+            "traits": [
+              "included silencer"
+            ]
+          },
+          {
+            "name": "10mm smg",
+            "dmg": [
+              "5",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "10mm",
+            "str": 4,
+            "value": 3,
+            "weight": 3,
+            "traits": []
+          },
+          {
+            "name": "chinese smg",
+            "dmg": [
+              "5",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": "10mm",
+            "str": 6,
+            "value": 4,
+            "weight": 4,
+            "traits": []
+          },
+          {
+            "name": "12.7mm smg",
+            "dmg": [
+              "6",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": "12.7mm",
+            "str": 6,
+            "value": 8,
+            "weight": 4,
+            "traits": []
+          },
+          {
+            "name": "mp5",
+            "dmg": [
+              "6",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "10mm",
+            "str": 5,
+            "value": 8,
+            "weight": 5,
+            "traits": []
+          }
+        ]
+      },
+      {
+        "type": "shotguns",
+        "items": [
+          {
+            "name": "caravan shotgun",
+            "dmg": [
+              "10",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 2,
+            "ammo": "20 gauge",
+            "str": 6,
+            "value": 6,
+            "weight": 4,
+            "traits": [
+              "full blast"
+            ]
+          },
+          {
+            "name": "pipe shotgun",
+            "dmg": [
+              "10",
+              "+1d6"
+            ],
+            "acc": 0,
+            "mag": 1,
+            "ammo": "20 gauge",
+            "str": 5,
+            "value": 5,
+            "weight": 3,
+            "traits": []
+          },
+          {
+            "name": "hunting shotgun",
+            "dmg": [
+              "11",
+              "+1d4"
+            ],
+            "acc": 1,
+            "mag": 4,
+            "ammo": "12 gauge",
+            "str": 7,
+            "value": 8,
+            "weight": 2,
+            "traits": []
+          },
+          {
+            "name": "plasmaspaz",
+            "dmg": [
+              "11",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 9,
+            "value": 32,
+            "weight": 7,
+            "traits": [
+              "plasma weapon"
+            ]
+          },
+          {
+            "name": "tri-beam",
+            "dmg": [
+              "11"
+            ],
+            "acc": 1,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 7,
+            "value": 32,
+            "weight": 5,
+            "traits": [
+              "laser weapon"
+            ]
+          },
+          {
+            "name": "double-barrel",
+            "dmg": [
+              "11",
+              "+1d6"
+            ],
+            "acc": 0,
+            "mag": 2,
+            "ammo": "12 gauge",
+            "str": 8,
+            "value": 18,
+            "weight": 5,
+            "traits": [
+              "full blast"
+            ]
+          },
+          {
+            "name": "combat shotgun",
+            "dmg": [
+              "12",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "12 gauge",
+            "str": 8,
+            "value": 13,
+            "weight": 5,
+            "traits": []
+          },
+          {
+            "name": "chinese shotgun",
+            "dmg": [
+              "12",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": "12 gauge",
+            "str": 9,
+            "value": 15,
+            "weight": 6,
+            "traits": []
+          },
+          {
+            "name": "trench gun",
+            "dmg": [
+              "13",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 3,
+            "ammo": "12 gauge",
+            "str": 10,
+            "value": 18,
+            "weight": 6,
+            "traits": []
+          },
+          {
+            "name": "pancor jackhammer",
+            "dmg": [
+              "14",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "12 gauge",
+            "str": 12,
+            "value": 25,
+            "weight": 7,
+            "traits": [
+              "automatic"
+            ]
+          },
+          {
+            "name": "riot shotgun",
+            "dmg": [
+              "14",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 5,
+            "ammo": "12 gauge",
+            "str": 12,
+            "value": 25,
+            "weight": 8,
+            "traits": []
+          }
+        ]
+      },
+      {
+        "type": "assault rifles",
+        "items": [
+          {
+            "name": "pipe ar",
+            "dmg": [
+              "10",
+              "1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "5.56mm",
+            "str": 5,
+            "value": 5,
+            "weight": 4,
+            "traits": []
+          },
+          {
+            "name": "aug",
+            "dmg": [
+              "11",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "5.56mm",
+            "str": 6,
+            "value": 10,
+            "weight": 5,
+            "traits": [
+              "bullpup"
+            ]
+          },
+          {
+            "name": "galil",
+            "dmg": [
+              "11",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": "7.62mm",
+            "str": 6,
+            "value": 9,
+            "weight": 5,
+            "traits": []
+          },
+          {
+            "name": "stg-44",
+            "dmg": [
+              "11",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 5,
+            "ammo": "7.62mm",
+            "str": 5,
+            "value": 8,
+            "weight": 4,
+            "traits": []
+          },
+          {
+            "name": "tesla gun",
+            "dmg": [
+              "11",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 7,
+            "value": 32,
+            "weight": 7,
+            "traits": [
+              "tesla weapon"
+            ]
+          },
+          {
+            "name": "autoplaz",
+            "dmg": [
+              "11",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 10,
+            "value": 32,
+            "weight": 7,
+            "traits": [
+              "plasma weapon"
+            ]
+          },
+          {
+            "name": "laz-ar",
+            "dmg": [
+              "11"
+            ],
+            "acc": 1,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 9,
+            "value": 32,
+            "weight": 5,
+            "traits": [
+              "laser weapon"
+            ]
+          },
+          {
+            "name": "chinese ar",
+            "dmg": [
+              "12",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": "5.56mm",
+            "str": 9,
+            "value": 14,
+            "weight": 6,
+            "traits": []
+          },
+          {
+            "name": "g36",
+            "dmg": [
+              "12",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "5.56mm",
+            "str": 9,
+            "value": 15,
+            "weight": 7,
+            "traits": [
+              "built-in mid-scope"
+            ]
+          },
+          {
+            "name": "r91 ar",
+            "dmg": [
+              "12",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 5,
+            "ammo": "5.56mm",
+            "str": 8,
+            "value": 13,
+            "weight": 5,
+            "traits": []
+          },
+          {
+            "name": "m16",
+            "dmg": [
+              "13",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "5.56mm",
+            "str": 10,
+            "value": 18,
+            "weight": 7,
+            "traits": []
+          },
+          {
+            "name": "water-cooled ar",
+            "dmg": [
+              "14",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "5.56mm",
+            "str": 12,
+            "value": 25,
+            "weight": 8,
+            "traits": []
+          }
+        ]
+      },
+      {
+        "type": "battle rifles",
+        "items": [
+          {
+            "name": "yk42b pulse rifle",
+            "dmg": [
+              "8",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 5,
+            "value": 18,
+            "weight": 6,
+            "traits": [
+              "pulse weapon"
+            ]
+          },
+          {
+            "name": "p94 plasma rifle",
+            "dmg": [
+              "9",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 6,
+            "value": 18,
+            "weight": 5,
+            "traits": [
+              "plasma weapon"
+            ]
+          },
+          {
+            "name": "wattz 2000 laser rifle",
+            "dmg": [
+              "9"
+            ],
+            "acc": 1,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 5,
+            "value": 12,
+            "weight": 4,
+            "traits": [
+              "laser weapon"
+            ]
+          },
+          {
+            "name": "tesla rifle",
+            "dmg": [
+              "10",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 7,
+            "value": 32,
+            "weight": 7,
+            "traits": [
+              "tesla weapon"
+            ]
+          },
+          {
+            "name": "varmint rifle",
+            "dmg": [
+              "10",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "5.56mm",
+            "str": 6,
+            "value": 4,
+            "weight": 5,
+            "traits": []
+          },
+          {
+            "name": "aer9 laser rifle",
+            "dmg": [
+              "11"
+            ],
+            "acc": 1,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 10,
+            "value": 32,
+            "weight": 7,
+            "traits": [
+              "laser weapon"
+            ]
+          },
+          {
+            "name": "m1 garand",
+            "dmg": [
+              "11",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": ".30-06",
+            "str": 7,
+            "value": 8,
+            "weight": 6,
+            "traits": []
+          },
+          {
+            "name": "urban plasma rifle",
+            "dmg": [
+              "11",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 9,
+            "value": 12,
+            "weight": 5,
+            "traits": [
+              "plasma weapon"
+            ]
+          },
+          {
+            "name": "chinese br",
+            "dmg": [
+              "12",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": "7.62mm",
+            "str": 10,
+            "value": 18,
+            "weight": 6,
+            "traits": []
+          },
+          {
+            "name": "cowboy repeater",
+            "dmg": [
+              "12",
+              "+1d4"
+            ],
+            "acc": 1,
+            "mag": 3,
+            "ammo": ".357",
+            "str": 9,
+            "value": 15,
+            "weight": 5,
+            "traits": []
+          },
+          {
+            "name": "hunting rifle",
+            "dmg": [
+              "12",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": ".308",
+            "str": 9,
+            "value": 13,
+            "weight": 7,
+            "traits": []
+          },
+          {
+            "name": "m72 gauss rifle",
+            "dmg": [
+              "12",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 3,
+            "ammo": "2mm ec",
+            "str": 10,
+            "value": 32,
+            "weight": 7,
+            "traits": [
+              "gauss weapon"
+            ]
+          },
+          {
+            "name": "fn fal",
+            "dmg": [
+              "13",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "7.62mm",
+            "str": 11,
+            "value": 18,
+            "weight": 7,
+            "traits": []
+          },
+          {
+            "name": "railway rifle",
+            "dmg": [
+              "13",
+              "+1d6"
+            ],
+            "acc": 0,
+            "mag": 3,
+            "ammo": "railway",
+            "str": 12,
+            "value": 20,
+            "weight": 8,
+            "traits": [
+              "pierce weapon"
+            ]
+          },
+          {
+            "name": "m14",
+            "dmg": [
+              "14",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "7.62mm",
+            "str": 12,
+            "value": 25,
+            "weight": 8,
+            "traits": []
+          }
+        ]
+      },
+      {
+        "type": "light machine guns",
+        "items": [
+          {
+            "name": "fg-42",
+            "dmg": [
+              "11",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": ".30-06",
+            "str": 10,
+            "value": 10,
+            "weight": 5,
+            "traits": [
+              "minor action reloads"
+            ]
+          },
+          {
+            "name": "gatling laser",
+            "dmg": [
+              "11"
+            ],
+            "acc": 1,
+            "mag": 6,
+            "ammo": "mf cells",
+            "str": 15,
+            "value": 32,
+            "weight": 13,
+            "traits": [
+              "-1 agl",
+              "laser weapon"
+            ]
+          },
+          {
+            "name": "plasmacaster",
+            "dmg": [
+              "11",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 5,
+            "ammo": "mf cells",
+            "str": 16,
+            "value": 32,
+            "weight": 17,
+            "traits": [
+              "-1 agl",
+              "plasma weapon"
+            ]
+          },
+          {
+            "name": "bar",
+            "dmg": [
+              "12",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 5,
+            "ammo": ".30-06",
+            "str": 10,
+            "value": 13,
+            "weight": 7,
+            "traits": []
+          },
+          {
+            "name": "chinese lmg",
+            "dmg": [
+              "12",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 5,
+            "ammo": "5.56mm",
+            "str": 11,
+            "value": 15,
+            "weight": 5,
+            "traits": []
+          },
+          {
+            "name": "m249 saw",
+            "dmg": [
+              "13",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 6,
+            "ammo": "5.56mm",
+            "str": 12,
+            "value": 18,
+            "weight": 6,
+            "traits": []
+          },
+          {
+            "name": "m60",
+            "dmg": [
+              "14",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 5,
+            "ammo": "7.62mm",
+            "str": 14,
+            "value": 25,
+            "weight": 8,
+            "traits": []
+          },
+          {
+            "name": "minigun",
+            "dmg": [
+              "14",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 6,
+            "ammo": "7.62mm",
+            "str": 16,
+            "value": 30,
+            "weight": 15,
+            "traits": [
+              "-1 agl"
+            ]
+          },
+          {
+            "name": "m2 browning",
+            "dmg": [
+              "15",
+              "+1d4"
+            ],
+            "acc": -1,
+            "mag": 5,
+            "ammo": ".50 mg",
+            "str": 18,
+            "value": 32,
+            "weight": 25,
+            "traits": [
+              "-1 agl"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "sniper rifles",
+        "items": [
+          {
+            "name": "beam rifle",
+            "dmg": [
+              "11"
+            ],
+            "acc": 1,
+            "mag": 4,
+            "ammo": "mf cells",
+            "str": 10,
+            "value": 32,
+            "weight": 6,
+            "traits": [
+              "laser weapon"
+            ]
+          },
+          {
+            "name": "mosin nagant",
+            "dmg": [
+              "11",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": "7.62mm",
+            "str": 10,
+            "value": 10,
+            "weight": 5,
+            "traits": []
+          },
+          {
+            "name": "springfield rifle",
+            "dmg": [
+              "11",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": ".30-06",
+            "str": 10,
+            "value": 8,
+            "weight": 5,
+            "traits": []
+          },
+          {
+            "name": "chinese sniper rifle",
+            "dmg": [
+              "12",
+              "+1d6"
+            ],
+            "acc": -1,
+            "mag": 4,
+            "ammo": ".308",
+            "str": 11,
+            "value": 15,
+            "weight": 7,
+            "traits": []
+          },
+          {
+            "name": "dks-501 sniper rifle",
+            "dmg": [
+              "12",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": ".223",
+            "str": 11,
+            "value": 13,
+            "weight": 7,
+            "traits": []
+          },
+          {
+            "name": "gauss rifle",
+            "dmg": [
+              "13",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 3,
+            "ammo": "2mm ec",
+            "str": 14,
+            "value": 40,
+            "weight": 12,
+            "traits": [
+              "gauss weapon"
+            ]
+          },
+          {
+            "name": "m24 sniper rifle",
+            "dmg": [
+              "13",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "7.62mm",
+            "str": 12,
+            "value": 18,
+            "weight": 8,
+            "traits": []
+          },
+          {
+            "name": "psg-1",
+            "dmg": [
+              "14",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "7.62mm",
+            "str": 14,
+            "value": 25,
+            "weight": 8,
+            "traits": []
+          },
+          {
+            "name": "anti-materiel rifle",
+            "dmg": [
+              "15",
+              "+1d4"
+            ],
+            "acc": -1,
+            "mag": 3,
+            "ammo": ".50 mg",
+            "str": 16,
+            "value": 32,
+            "weight": 15,
+            "traits": [
+              "-1 agl"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heavy weapons",
+        "items": [
+          {
+            "name": "rock-it-launcher",
+            "dmg": [
+              "0",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 1,
+            "ammo": "small objects",
+            "str": 10,
+            "value": 15,
+            "weight": 6,
+            "traits": [
+              "insert item and launchadd weight to dmg"
+            ]
+          },
+          {
+            "name": "flamer",
+            "dmg": [
+              "10",
+              "+1d8"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "flamer",
+            "str": 12,
+            "value": 25,
+            "weight": 12,
+            "traits": [
+              "flame weapon",
+              "close range only"
+            ]
+          },
+          {
+            "name": "incinerator",
+            "dmg": [
+              "10",
+              "+1d8"
+            ],
+            "acc": 0,
+            "mag": 4,
+            "ammo": "flamer",
+            "str": 12,
+            "value": 28,
+            "weight": 14,
+            "traits": [
+              "flame weapon"
+            ]
+          },
+          {
+            "name": "tesla cannon",
+            "dmg": [
+              "12",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 2,
+            "ammo": "mf cells",
+            "str": 13,
+            "value": 40,
+            "weight": 15,
+            "traits": [
+              "tesla weapon"
+            ]
+          },
+          {
+            "name": "rpg-7",
+            "dmg": [
+              "14",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 1,
+            "ammo": "missiles",
+            "str": 12,
+            "value": 32,
+            "weight": 13,
+            "traits": [
+              "5-foot aoe",
+              "deals pierce damage"
+            ]
+          },
+          {
+            "name": "missile launcher",
+            "dmg": [
+              "15",
+              "+1d4"
+            ],
+            "acc": 0,
+            "mag": 1,
+            "ammo": "missiles",
+            "str": 14,
+            "value": 40,
+            "weight": 12,
+            "traits": [
+              "10-foot aoe"
+            ]
+          },
+          {
+            "name": "cryolator",
+            "dmg": [
+              "10",
+              "+1d6"
+            ],
+            "acc": 0,
+            "mag": 3,
+            "ammo": "cryo cells",
+            "str": 12,
+            "value": 30,
+            "weight": 13,
+            "traits": [
+              "cryo weapon"
+            ]
+          },
+          {
+            "name": "fat man",
+            "dmg": [
+              "20",
+              "+1d20"
+            ],
+            "acc": -1,
+            "mag": 1,
+            "ammo": "mini-nukes",
+            "str": 16,
+            "value": 100,
+            "weight": 25,
+            "traits": [
+              "heavy",
+              "deal 1d8 rad-level15-foor aoe"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "accessories",
+    "content": [
+      {
+        "type": "armor set accessories",
+        "items": [
+          {
+            "name": "backpack",
+            "area": "back",
+            "value": 12,
+            "weight": 1,
+            "traits": [
+              "gain +25 lbs",
+              "carrying capacity"
+            ]
+          },
+          {
+            "name": "ballistic weave",
+            "area": "full body",
+            "value": 16,
+            "weight": 1,
+            "traits": [
+              "gain +2 dt to an item of clothing",
+              "ballistic weave may be used with other accessories"
+            ]
+          },
+          {
+            "name": "bandolier",
+            "area": "chest",
+            "value": 12,
+            "weight": 1,
+            "traits": [
+              "reloading with lmgs is reduced to a minor action"
+            ]
+          },
+          {
+            "name": "cape",
+            "area": "back",
+            "value": 16,
+            "weight": 1,
+            "traits": [
+              "gain +1 charisma"
+            ]
+          },
+          {
+            "name": "holster",
+            "area": "hip",
+            "value": 6,
+            "weight": 1,
+            "traits": [
+              "switch to a one-handed weapon kept in the holster as a bonus action"
+            ]
+          },
+          {
+            "name": "armor plating",
+            "area": "full body",
+            "value": 16,
+            "weight": 5,
+            "traits": [
+              "gain +1 dt to light",
+              "medium",
+              "or heavy armor"
+            ]
+          },
+          {
+            "name": "pip-boy 3000",
+            "area": "wrist",
+            "value": 40,
+            "weight": 2,
+            "traits": [
+              "v",
+              "a",
+              "t",
+              "s"
+            ]
+          },
+          {
+            "name": "stealth-boy",
+            "area": "wrist",
+            "value": 28,
+            "weight": 2,
+            "traits": [
+              "gain invisibility for 3 rounds",
+              "usable only once"
+            ]
+          },
+          {
+            "name": "sling",
+            "area": "back",
+            "value": 8,
+            "weight": 1,
+            "traits": [
+              "switch to a two-handed weapon kept in the sling as a bonus action"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "face accessories",
+        "items": [
+          {
+            "name": "authority glasses",
+            "area": "eyes",
+            "value": 4,
+            "weight": 1,
+            "traits": [
+              "gain +1 to speech checks"
+            ]
+          },
+          {
+            "name": "bandana",
+            "area": "mouth",
+            "value": 4,
+            "weight": 1,
+            "traits": [
+              "gain +1 to sneak checks"
+            ]
+          },
+          {
+            "name": "eyeglasses",
+            "area": "eyes",
+            "value": 4,
+            "weight": 1,
+            "traits": [
+              "gain +1 perception"
+            ]
+          },
+          {
+            "name": "doctor\u2019s glasses",
+            "area": "eyes",
+            "value": 4,
+            "weight": 1,
+            "traits": [
+              "gain +1 to medicine checks"
+            ]
+          },
+          {
+            "name": "sunglasses",
+            "area": "eyes",
+            "value": 4,
+            "weight": 1,
+            "traits": [
+              "become immune to blinding lights"
+            ]
+          },
+          {
+            "name": "goggles",
+            "area": "eyes",
+            "value": 4,
+            "weight": 1,
+            "traits": [
+              "ignore perception debuffs from weather effects"
+            ]
+          },
+          {
+            "name": "respirator",
+            "area": "mouth",
+            "value": 5,
+            "weight": 2,
+            "traits": [
+              "gain +2 rad resistance"
+            ]
+          },
+          {
+            "name": "gas mask",
+            "area": "full face",
+            "value": 6,
+            "weight": 3,
+            "traits": [
+              "gain +3 rad resistance",
+              "ignore perception debuffs from weather effects",
+              "and become immune to toxic gas"
+            ]
+          },
+          {
+            "name": "lucky shades",
+            "area": "eyes",
+            "value": 4,
+            "weight": 1,
+            "traits": [
+              "gain +1 luck"
+            ]
+          },
+          {
+            "name": "night vision goggles",
+            "area": "eyes",
+            "value": 8,
+            "weight": 3,
+            "traits": [
+              "gain darkvision but suffer -2 on perception checks that rely on sight"
+            ]
+          },
+          {
+            "name": "reading glasses",
+            "area": "eyes",
+            "value": 4,
+            "weight": 1,
+            "traits": [
+              "gain +1 intelligence"
+            ]
+          },
+          {
+            "name": "stealth goggles",
+            "area": "eyes",
+            "value": 10,
+            "weight": 5,
+            "traits": [
+              "see invisible enemies but suffer -3 on perception checks that rely on sight"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "melee weapon mods",
+        "items": [
+          {
+            "name": "heat coils",
+            "value": 16,
+            "weight": 2,
+            "traits": [
+              "inflict burning for 3 rounds on hit"
+            ]
+          },
+          {
+            "name": "improved grip",
+            "value": 8,
+            "weight": 1,
+            "traits": [
+              "gain +1 on attack rolls with melee weapons or +1 defense on a shield"
+            ]
+          },
+          {
+            "name": "pulse generator",
+            "value": 16,
+            "weight": 2,
+            "traits": [
+              "inflict a 2-round pulse on hit"
+            ]
+          },
+          {
+            "name": "razor wire wrapping",
+            "value": 16,
+            "weight": 2,
+            "traits": [
+              "inflict a 5-round bleed on hit"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "gun mods",
+        "items": [
+          {
+            "name": "1.5x scope",
+            "area": "upper rail",
+            "available weapons": "all",
+            "value": 16,
+            "weight": 2,
+            "traits": [
+              "gain +1 on attack rolls at close-range"
+            ]
+          },
+          {
+            "name": "12x scope",
+            "area": "upper rail",
+            "available weapons": "all",
+            "value": 16,
+            "weight": 2,
+            "traits": [
+              "gain +1 on attack rolls at long-range"
+            ]
+          },
+          {
+            "name": "acog scope",
+            "area": "upper rail",
+            "available weapons": "all",
+            "value": 16,
+            "weight": 2,
+            "traits": [
+              "gain +1 on attack rolls at mid-range"
+            ]
+          },
+          {
+            "name": "ammo box",
+            "area": "magazine",
+            "available weapons": "lmgs",
+            "value": 16,
+            "weight": 5,
+            "traits": [
+              "gain an unlimited magazine but move at half speed while attached"
+            ]
+          },
+          {
+            "name": "bipod",
+            "area": "lower rail",
+            "available weapons": "two-handed weapons",
+            "value": 20,
+            "weight": 2,
+            "traits": [
+              "gain +1 on attack rolls while prone or behind half cover"
+            ]
+          },
+          {
+            "name": "extended mag",
+            "area": "magazine",
+            "available weapons": "all",
+            "value": 20,
+            "weight": 3,
+            "traits": [
+              "gain +2 ammo-pips in your magazine"
+            ]
+          },
+          {
+            "name": "foregrip",
+            "area": "lower rail",
+            "available weapons": "all",
+            "value": 16,
+            "weight": 1,
+            "traits": [
+              "lose attack roll penalties on weapon abilities when used with both hands"
+            ]
+          },
+          {
+            "name": "heavy barrel",
+            "area": "barrel",
+            "available weapons": "all",
+            "value": 20,
+            "weight": 4,
+            "traits": [
+              "deal +1d4 damage",
+              "suffer -1 on attack rolls"
+            ]
+          },
+          {
+            "name": "laser sight",
+            "area": "lower rail",
+            "available weapons": "all",
+            "value": 16,
+            "weight": 1,
+            "traits": [
+              "gain +1 on attack rolls when targeting a limb other than the torso"
+            ]
+          },
+          {
+            "name": "maglite",
+            "area": "lower rail",
+            "available weapons": "all",
+            "value": 16,
+            "weight": 1,
+            "traits": [
+              "illuminate 50 feet of darkness and blind targets you aim at in close-range"
+            ]
+          },
+          {
+            "name": "pierce bayonet",
+            "area": "lower rail",
+            "available weapons": "two-handed weapons",
+            "value": 16,
+            "weight": 4,
+            "traits": [
+              "attach a one-handed pierce melee weapon to your gun that deals 6 dmg"
+            ]
+          },
+          {
+            "name": "slash bayonet",
+            "area": "lower rail",
+            "available weapons": "two-handed weapons",
+            "value": 16,
+            "weight": 4,
+            "traits": [
+              "attach a one-handed slash melee weapon to your gun that deals 6 dmg"
+            ]
+          },
+          {
+            "name": "speed loader",
+            "area": "magazine",
+            "available weapons": "revolvers",
+            "value": 12,
+            "weight": 1,
+            "traits": [
+              "reload a revolver as a bonus action"
+            ]
+          },
+          {
+            "name": "suppressor",
+            "area": "barrel",
+            "available weapons": "all",
+            "value": 20,
+            "weight": 1,
+            "traits": [
+              "do not break concealment when attacking a target outside of close-range"
+            ]
+          },
+          {
+            "name": "tripod",
+            "area": "lower rail",
+            "available weapons": "lmgs",
+            "value": 20,
+            "weight": 10,
+            "traits": [
+              "set-up and tear down with minor action and gain +1d4 on attack rolls but you cannot move when set-up"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "combat tools",
+    "content": [
+      {
+        "type": "thrown weapons",
+        "items": [
+          {
+            "name": "net",
+            "dmg": [],
+            "value": 6,
+            "weight": 2,
+            "traits": [
+              "restrain target until they escape by passing a dc 15 strength or agility check"
+            ]
+          },
+          {
+            "name": "flare",
+            "dmg": [],
+            "value": 4,
+            "weight": 1,
+            "traits": [
+              "blind enemies in 10 ft",
+              "aoe",
+              "the flare lasts for 2 rounds"
+            ]
+          },
+          {
+            "name": "caltrop cluster",
+            "dmg": [],
+            "value": 4,
+            "weight": 2,
+            "traits": [
+              "spread caltrops in 10 ft",
+              "aoe",
+              "characters take 1d20 damage when they enter the area and it acts as rough terrain"
+            ]
+          },
+          {
+            "name": "rad cocktail",
+            "dmg": [],
+            "value": 5,
+            "weight": 1,
+            "traits": [
+              "spread toxic ooze in 10ft",
+              "aoe",
+              "character take 1d4 rad-level when they enter the area and it acts as rough terrain"
+            ]
+          },
+          {
+            "name": "molotov cocktail",
+            "dmg": [],
+            "value": 5,
+            "weight": 1,
+            "traits": [
+              "spread fire in 10ft",
+              "aoe",
+              "character are inflicted with burning for 3 rounds when they enter the area"
+            ]
+          },
+          {
+            "name": "throwing knife",
+            "dmg": [
+              "7"
+            ],
+            "value": 4,
+            "weight": 1,
+            "traits": [
+              "deals slash damage"
+            ]
+          },
+          {
+            "name": "throwing spear",
+            "dmg": [
+              "7"
+            ],
+            "value": 4,
+            "weight": 1,
+            "traits": [
+              "deals pierce damage"
+            ]
+          },
+          {
+            "name": "throwing star",
+            "dmg": [
+              "7"
+            ],
+            "value": 5,
+            "weight": 1,
+            "traits": [
+              "deals slash damage",
+              "finesse weapon"
+            ]
+          },
+          {
+            "name": "kunai",
+            "dmg": [
+              "7"
+            ],
+            "value": 5,
+            "weight": 1,
+            "traits": [
+              "deals pierce damage",
+              "finesse weapon"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "grenades",
+        "items": [
+          {
+            "name": "concussion grenade",
+            "dmg": [],
+            "radius": "10 feet",
+            "value": 12,
+            "weight": 1,
+            "traits": [
+              "inflict a 1-round stun"
+            ]
+          },
+          {
+            "name": "flashbang",
+            "dmg": [],
+            "radius": "15 feet",
+            "value": 5,
+            "weight": 1,
+            "traits": [
+              "blind enemies in aoe",
+              "lasts for 2 rounds"
+            ]
+          },
+          {
+            "name": "smoke grenade",
+            "dmg": [],
+            "radius": "15 feet",
+            "value": 4,
+            "weight": 1,
+            "traits": [
+              "create a heavily-obscured area for 3 rounds"
+            ]
+          },
+          {
+            "name": "toxic gas grenade",
+            "dmg": [],
+            "radius": "10 feet",
+            "value": 8,
+            "weight": 1,
+            "traits": [
+              "create a heavily-obscured area that inflicts a 5-round poison",
+              "lasts 3 rounds"
+            ]
+          },
+          {
+            "name": "pulse grenade",
+            "dmg": [
+              "10"
+            ],
+            "radius": "15 feet",
+            "value": 6,
+            "weight": 1,
+            "traits": [
+              "deals pulse damage and inflict a 2-round pulse"
+            ]
+          },
+          {
+            "name": "cryo grenade",
+            "dmg": [
+              "12"
+            ],
+            "radius": "10 feet.",
+            "value": 8,
+            "weight": 1,
+            "traits": [
+              "deals cryo damage and inflict a 1-round stagger"
+            ]
+          },
+          {
+            "name": "incendiary grenade",
+            "dmg": [
+              "12"
+            ],
+            "radius": "10 feet",
+            "value": 8,
+            "weight": 1,
+            "traits": [
+              "deals fire damage",
+              "spreads fire in aoe for 2 rounds",
+              "characters are inflicted with burning for 3 rounds when they enter the area"
+            ]
+          },
+          {
+            "name": "satchel charge",
+            "dmg": [
+              "12"
+            ],
+            "radius": "10 feet",
+            "value": 6,
+            "weight": 1,
+            "traits": [
+              "only explodes when triggered with a detonator"
+            ]
+          },
+          {
+            "name": "pipe bomb",
+            "dmg": [
+              "12"
+            ],
+            "radius": "10 feet",
+            "value": 7,
+            "weight": 2,
+            "traits": [
+              "deals slash damage and inflicts bleeding for 5 rounds"
+            ]
+          },
+          {
+            "name": "dynamite",
+            "dmg": [
+              "12"
+            ],
+            "radius": "15 feet",
+            "value": 8,
+            "weight": 1,
+            "traits": []
+          },
+          {
+            "name": "frag grenade",
+            "dmg": [
+              "14"
+            ],
+            "radius": "10 feet",
+            "value": 7,
+            "weight": 1,
+            "traits": []
+          },
+          {
+            "name": "c4",
+            "dmg": [
+              "14"
+            ],
+            "radius": "10 feet",
+            "value": 10,
+            "weight": 1,
+            "traits": [
+              "only explodes when triggered with a detonator"
+            ]
+          },
+          {
+            "name": "nuka-grenade",
+            "dmg": [
+              "16"
+            ],
+            "radius": "15 feet",
+            "value": 12,
+            "weight": 2,
+            "traits": [
+              "inflict 1d4 rad-level"
+            ]
+          },
+          {
+            "name": "plasma grenade",
+            "dmg": [
+              "14"
+            ],
+            "radius": "15 feet",
+            "value": 9,
+            "weight": 1,
+            "traits": [
+              "deals plasma damage",
+              "spread plasma in aoe for 2 rounds",
+              "characters are inflicted with 1d12 plasma damage when they enter the area and acts as rough terrain"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "mines",
+        "items": [
+          {
+            "name": "concussion mine",
+            "dmg": [],
+            "radius": "10 feet",
+            "value": 12,
+            "weight": 1,
+            "traits": [
+              "inflict a 1-round stun"
+            ]
+          },
+          {
+            "name": "flash mine",
+            "dmg": [],
+            "radius": "15 feet",
+            "value": 5,
+            "weight": 1,
+            "traits": [
+              "blind enemies in aoe",
+              "lasts for 2 rounds"
+            ]
+          },
+          {
+            "name": "smoke mine",
+            "dmg": [],
+            "radius": "15 feet",
+            "value": 4,
+            "weight": 1,
+            "traits": [
+              "create a heavily-obscured area for 3 rounds"
+            ]
+          },
+          {
+            "name": "toxic gas mine",
+            "dmg": [],
+            "radius": "10 feet",
+            "value": 8,
+            "weight": 1,
+            "traits": [
+              "create a heavily-obscured area that inflicts a 5-round poison for 3 rounds"
+            ]
+          },
+          {
+            "name": "pulse mine",
+            "dmg": [
+              "10"
+            ],
+            "radius": "15 feet",
+            "value": 6,
+            "weight": 1,
+            "traits": [
+              "deals pulse damage and inflict a 2-round pulse"
+            ]
+          },
+          {
+            "name": "cryo mine",
+            "dmg": [
+              "12"
+            ],
+            "radius": "10 feet.",
+            "value": 8,
+            "weight": 1,
+            "traits": [
+              "deals cryo damage and inflict a 1-round stagger"
+            ]
+          },
+          {
+            "name": "incendiary mine",
+            "dmg": [
+              "12"
+            ],
+            "radius": "10 feet",
+            "value": 8,
+            "weight": 1,
+            "traits": [
+              "deals fire damage",
+              "spread fire in aoe for 2 rounds and characters are inflicted with burning for 3 rounds when they enter the area"
+            ]
+          },
+          {
+            "name": "ied",
+            "dmg": [
+              "12"
+            ],
+            "radius": "10 feet",
+            "value": 7,
+            "weight": 2,
+            "traits": [
+              "deals slash damage and inflict bleeding for 5 rounds"
+            ]
+          },
+          {
+            "name": "frag mine",
+            "dmg": [
+              "14"
+            ],
+            "radius": "10 feet",
+            "value": 8,
+            "weight": 1,
+            "traits": []
+          },
+          {
+            "name": "plasma grenade",
+            "dmg": [
+              "14"
+            ],
+            "radius": "15 feet",
+            "value": 9,
+            "weight": 1,
+            "traits": [
+              "deals plasma damage",
+              "spread plasma in aoe for 2 rounds and characters are inflicted with 1d4 plasma damage when they enter the area and acts as rough terrain"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "ammunition",
+    "content": [
+      {
+        "type": "basic ammo types",
+        "items": [
+          {
+            "name": ".223 rounds",
+            "small mag": 1,
+            "medium mag": 2,
+            "large mag": 3
+          },
+          {
+            "name": ".22lr rounds",
+            "small mag": 1,
+            "medium mag": 2,
+            "large mag": 3
+          },
+          {
+            "name": ".30-06 rounds",
+            "small mag": 1,
+            "medium mag": 2,
+            "large mag": 3
+          },
+          {
+            "name": ".308 rounds",
+            "small mag": 2,
+            "medium mag": 4,
+            "large mag": 6
+          },
+          {
+            "name": ".32 rounds",
+            "small mag": 2,
+            "medium mag": 4,
+            "large mag": 6
+          },
+          {
+            "name": ".357 magnum rounds",
+            "small mag": 2,
+            "medium mag": 4,
+            "large mag": 6
+          },
+          {
+            "name": ".44 magnum rounds",
+            "small mag": 3,
+            "medium mag": 6,
+            "large mag": 8
+          },
+          {
+            "name": ".45 acp rounds",
+            "small mag": 2,
+            "medium mag": 4,
+            "large mag": 6
+          },
+          {
+            "name": ".50 mg rounds",
+            "small mag": 4,
+            "medium mag": 8,
+            "large mag": 12
+          },
+          {
+            "name": "10mm rounds",
+            "small mag": 1,
+            "medium mag": 2,
+            "large mag": 3
+          },
+          {
+            "name": "12-gauge shells",
+            "small mag": 2,
+            "medium mag": 4,
+            "large mag": 6
+          },
+          {
+            "name": "12.7mm rounds",
+            "small mag": 3,
+            "medium mag": 6,
+            "large mag": 9
+          },
+          {
+            "name": "20-gauge shells",
+            "small mag": 1,
+            "medium mag": 2,
+            "large mag": 3
+          },
+          {
+            "name": "2mm ec rounds",
+            "small mag": 3,
+            "medium mag": 6,
+            "large mag": 9
+          },
+          {
+            "name": "5.56mm rounds",
+            "small mag": 2,
+            "medium mag": 4,
+            "large mag": 6
+          },
+          {
+            "name": "7.62mm rounds",
+            "small mag": 2,
+            "medium mag": 4,
+            "large mag": 6
+          },
+          {
+            "name": "9mm rounds",
+            "small mag": 1,
+            "medium mag": 2,
+            "large mag": 3
+          },
+          {
+            "name": "cryo cells",
+            "small mag": 0,
+            "medium mag": 0,
+            "large mag": 10
+          },
+          {
+            "name": "darts",
+            "small mag": 1,
+            "medium mag": 2,
+            "large mag": 3
+          },
+          {
+            "name": "flamer fuel cannisters",
+            "small mag": 0,
+            "medium mag": 0,
+            "large mag": 10
+          },
+          {
+            "name": "mf cells",
+            "small mag": 2,
+            "medium mag": 4,
+            "large mag": 6
+          },
+          {
+            "name": "mini-nukes",
+            "small mag": 0,
+            "medium mag": 0,
+            "large mag": 50
+          },
+          {
+            "name": "missiles",
+            "small mag": 0,
+            "medium mag": 0,
+            "large mag": 20
+          },
+          {
+            "name": "railway spikes",
+            "small mag": 1,
+            "medium mag": 2,
+            "large mag": 3
+          }
+        ]
+      },
+      {
+        "type": "special ammo variants",
+        "items": [
+          {
+            "name": "armor piercing rounds",
+            "weapon type": "ballistic",
+            "value modifier": 2,
+            "effect": [
+              "deal pierce damage"
+            ]
+          },
+          {
+            "name": "hollow point rounds",
+            "weapon type": "ballistic",
+            "value modifier": 2,
+            "effect": [
+              "deal slash damage"
+            ]
+          },
+          {
+            "name": "incendiary rounds",
+            "weapon type": "ballistic",
+            "value modifier": 3,
+            "effect": [
+              "inflict burning for 3 rounds"
+            ]
+          },
+          {
+            "name": "military grade rounds",
+            "weapon type": "ballistic",
+            "value modifier": 4,
+            "effect": [
+              "deal +1d4 damage"
+            ]
+          },
+          {
+            "name": "uranium rounds",
+            "weapon type": "ballistic",
+            "value modifier": 3,
+            "effect": [
+              "deal +1d4 rad-level"
+            ]
+          },
+          {
+            "name": "overcharge cells",
+            "weapon type": "energy",
+            "value modifier": 2,
+            "effect": [
+              "deal +1d4 damage"
+            ]
+          },
+          {
+            "name": "precision cells",
+            "weapon type": "energy",
+            "value modifier": 2,
+            "effect": [
+              "gain +1d4 on your attack roll"
+            ]
+          },
+          {
+            "name": "bean bag rounds",
+            "weapon type": "shotgun",
+            "value modifier": 1,
+            "effect": [
+              "reduce damage base to 0 and inflict a 1-round stagger"
+            ]
+          },
+          {
+            "name": "bird shot shells",
+            "weapon type": "shotgun",
+            "value modifier": 2,
+            "effect": [
+              "deal slash damage"
+            ]
+          },
+          {
+            "name": "dragon\u2019s breath shells",
+            "weapon type": "shotgun",
+            "value modifier": 3,
+            "effect": [
+              "inflict burning for 3 rounds"
+            ]
+          },
+          {
+            "name": "flechette shells",
+            "weapon type": "shotgun",
+            "value modifier": 2,
+            "effect": [
+              "deal pierce damage"
+            ]
+          },
+          {
+            "name": "shotgun slugs",
+            "weapon type": "shotgun",
+            "value modifier": 2,
+            "effect": [
+              "change shotgun preferred range to mid-range and lose traits and abilities related to spread"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "aid",
+    "content": [
+      {
+        "items": [
+          {
+            "name": "addictol",
+            "value": 3,
+            "effect": [
+              "cures effects of addiction"
+            ]
+          },
+          {
+            "name": "antidote",
+            "value": 2,
+            "effect": [
+              "cures effects of poison"
+            ]
+          },
+          {
+            "name": "auto-inject stimpak",
+            "value": 8,
+            "effect": [
+              "automatically gain +2d6 hp when you fall below 10 hp"
+            ]
+          },
+          {
+            "name": "auto-inject super stimpak",
+            "value": 14,
+            "effect": [
+              "automatically gain +2d12 hp when you fall below 10 hp"
+            ]
+          },
+          {
+            "name": "bandage",
+            "value": 2,
+            "effect": [
+              "cure effects of bleeding and gain +1d4 hp"
+            ]
+          },
+          {
+            "name": "blood pack",
+            "value": 2,
+            "effect": [
+              "gain +1d8 hp"
+            ]
+          },
+          {
+            "name": "bitter drink",
+            "value": 3,
+            "effect": [
+              "gain +1d10 hp and have -1 per mod for 5 rounds"
+            ]
+          },
+          {
+            "name": "pulse dampener",
+            "value": 2,
+            "effect": [
+              "cure pulse effects"
+            ]
+          },
+          {
+            "name": "rad-away",
+            "value": 2,
+            "effect": [
+              "reduce rad-level by 1d4"
+            ]
+          },
+          {
+            "name": "rad-x",
+            "value": 2,
+            "effect": [
+              "gain +1d4 rad resistance for 4 rounds (can be stacked twice)"
+            ]
+          },
+          {
+            "name": "stimpak",
+            "value": 4,
+            "effect": [
+              "gain +2d6 hp"
+            ]
+          },
+          {
+            "name": "super stimpak",
+            "value": 10,
+            "effect": [
+              "gain +2d12 hp or resuscitate a character at 0 hp and restore them back to 1d12 hp"
+            ]
+          },
+          {
+            "name": "weapon repair kit",
+            "value": 3,
+            "effect": [
+              "fix a broken weapon or piece of equipment"
+            ]
+          },
+          {
+            "name": "x-111 compound",
+            "value": 10,
+            "effect": [
+              "reduce rad-level to 0 rads"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "chems",
+    "content": [
+      {
+        "items": [
+          {
+            "name": "alcohol",
+            "duration": 4,
+            "addiction save dc": 4,
+            "value": 2,
+            "effect": [
+              "+1 str mod",
+              "+1 cha mod",
+              "-1 per mod",
+              "-1 int mod"
+            ]
+          },
+          {
+            "name": "buffout",
+            "duration": 3,
+            "addiction save dc": 6,
+            "value": 4,
+            "effect": [
+              "+1 str mod",
+              "+1 end modgain +2d20 temporary hp"
+            ]
+          },
+          {
+            "name": "calmex",
+            "duration": 4,
+            "addiction save dc": 8,
+            "value": 6,
+            "effect": [
+              "+2 per mod",
+              "+2 agl mod"
+            ]
+          },
+          {
+            "name": "cateye",
+            "duration": 4,
+            "addiction save dc": 4,
+            "value": 4,
+            "effect": [
+              "+1 per modgain darkvision"
+            ]
+          },
+          {
+            "name": "coyote tobacco chew",
+            "duration": 3,
+            "addiction save dc": 6,
+            "value": 2,
+            "effect": [
+              "+1 per mod",
+              "+1 agl mod"
+            ]
+          },
+          {
+            "name": "daddy-o",
+            "duration": 4,
+            "addiction save dc": 8,
+            "value": 6,
+            "effect": [
+              "+2 per mod",
+              "+2 int mod",
+              "-2 cha mod"
+            ]
+          },
+          {
+            "name": "day tripper",
+            "duration": 4,
+            "addiction save dc": 8,
+            "value": 6,
+            "effect": [
+              "+2 cha mod",
+              "+2 lck mod",
+              "-2 str"
+            ]
+          },
+          {
+            "name": "fixer",
+            "duration": 8,
+            "addiction save dc": 4,
+            "value": 4,
+            "effect": [
+              "temporarily removes effects of addiction"
+            ]
+          },
+          {
+            "name": "jet",
+            "duration": 3,
+            "addiction save dc": 8,
+            "value": 4,
+            "effect": [
+              "+1 agl modgain +5 feet to your speed"
+            ]
+          },
+          {
+            "name": "med-x",
+            "duration": 3,
+            "addiction save dc": 4,
+            "value": 6,
+            "effect": [
+              "+1 end modgain +10dt and ignore limb effects"
+            ]
+          },
+          {
+            "name": "mentats",
+            "duration": 3,
+            "addiction save dc": 4,
+            "value": 4,
+            "effect": [
+              "+1 per mod",
+              "+1 int mod",
+              "+1 cha mod"
+            ]
+          },
+          {
+            "name": "psycho",
+            "duration": 3,
+            "addiction save dc": 8,
+            "value": 4,
+            "effect": [
+              "deal +1d4 damage on attacks"
+            ]
+          },
+          {
+            "name": "rad-reefer",
+            "duration": 4,
+            "addiction save dc": 4,
+            "value": 2,
+            "effect": [
+              "+2 lck mod-1 cha mod",
+              "-1 int mod"
+            ]
+          },
+          {
+            "name": "rocket",
+            "duration": 4,
+            "addiction save dc": 10,
+            "value": 6,
+            "effect": [
+              "+2 agl modgain +10 feet to your speed"
+            ]
+          },
+          {
+            "name": "slasher",
+            "duration": 4,
+            "addiction save dc": 10,
+            "value": 8,
+            "effect": [
+              "gain advantage on attack rolls with melee weapons and deal +1d6 damage with all weapons"
+            ]
+          },
+          {
+            "name": "steady",
+            "duration": 3,
+            "addiction save dc": 8,
+            "value": 6,
+            "effect": [
+              "-1 str mod",
+              "-1 agl modgain +1d4 on attack rolls"
+            ]
+          },
+          {
+            "name": "turbo",
+            "duration": 1,
+            "addiction save dc": 10,
+            "value": 8,
+            "effect": [
+              "gain a bonus major action"
+            ]
+          },
+          {
+            "name": "voodoo",
+            "duration": 4,
+            "addiction save dc": 8,
+            "value": 6,
+            "effect": [
+              "+1 agl mod",
+              "+1 lck modlower crit threshold by 1"
+            ]
+          },
+          {
+            "name": "x-cell",
+            "duration": 4,
+            "addiction save dc": 8,
+            "value": 12,
+            "effect": [
+              "+1 special mod"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "content": [
+      {
+        "items": [
+          {
+            "name": "ant egg",
+            "hp": [
+              "+1d4"
+            ],
+            "rad": 1,
+            "value": 1,
+            "effect": []
+          },
+          {
+            "name": "ant meat",
+            "hp": [
+              "+1d6"
+            ],
+            "rad": 2,
+            "value": 1,
+            "effect": []
+          },
+          {
+            "name": "atomic cocktail",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 1,
+            "value": 2,
+            "effect": [
+              "gain energy resistance for 3 rounds"
+            ]
+          },
+          {
+            "name": "black coffee",
+            "hp": [
+              "+1d4"
+            ],
+            "rad": 1,
+            "value": 1,
+            "effect": [
+              "+1 per mod and +1 agl mod for 3 rounds"
+            ]
+          },
+          {
+            "name": "blamco mac & cheese",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 1,
+            "value": 3,
+            "effect": []
+          },
+          {
+            "name": "bloat fly meat",
+            "hp": [
+              "+1d6"
+            ],
+            "rad": 2,
+            "value": 2,
+            "effect": []
+          },
+          {
+            "name": "bloat fly slider",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 1,
+            "value": 3,
+            "effect": []
+          },
+          {
+            "name": "brahmin meat",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 2,
+            "value": 3,
+            "effect": []
+          },
+          {
+            "name": "brahmin steak",
+            "hp": [
+              "+1d10"
+            ],
+            "rad": 1,
+            "value": 4,
+            "effect": []
+          },
+          {
+            "name": "bubblegum",
+            "hp": [
+              "+1d4"
+            ],
+            "rad": 1,
+            "value": 1,
+            "effect": []
+          },
+          {
+            "name": "cave fungus",
+            "hp": [
+              "+1d4"
+            ],
+            "rad": -1,
+            "value": 2,
+            "effect": []
+          },
+          {
+            "name": "cram",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 1,
+            "value": 3,
+            "effect": []
+          },
+          {
+            "name": "crispy squirrel bits",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 1,
+            "value": 3,
+            "effect": []
+          },
+          {
+            "name": "dandy boy apples",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 1,
+            "value": 3,
+            "effect": []
+          },
+          {
+            "name": "deathclaw meat",
+            "hp": [
+              "+1d10"
+            ],
+            "rad": 3,
+            "value": 5,
+            "effect": [
+              "+1 str mod and +1 agl mod for 3 rounds"
+            ]
+          },
+          {
+            "name": "deathclaw steak",
+            "hp": [
+              "+1d12"
+            ],
+            "rad": 2,
+            "value": 8,
+            "effect": [
+              "+2 str mod and +2 agl mod for 4 rounds"
+            ]
+          },
+          {
+            "name": "dirty water",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 2,
+            "value": 2,
+            "effect": []
+          },
+          {
+            "name": "dog meat",
+            "hp": [
+              "+1d6"
+            ],
+            "rad": 2,
+            "value": 2,
+            "effect": []
+          },
+          {
+            "name": "dog steak",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 1,
+            "value": 2,
+            "effect": []
+          },
+          {
+            "name": "fancy lads snack cakes",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 1,
+            "value": 3,
+            "effect": []
+          },
+          {
+            "name": "human flesh",
+            "hp": [
+              "+1d6"
+            ],
+            "rad": 2,
+            "value": 2,
+            "effect": []
+          },
+          {
+            "name": "iguana-on-a-stick",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 1,
+            "value": 2,
+            "effect": []
+          },
+          {
+            "name": "instamash",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 1,
+            "value": 2,
+            "effect": []
+          },
+          {
+            "name": "junk food",
+            "hp": [
+              "+1d10"
+            ],
+            "rad": 1,
+            "value": 1,
+            "effect": [
+              "-1 agl mod for 2 rounds"
+            ]
+          },
+          {
+            "name": "mirelurk eggs",
+            "hp": [
+              "+1d4"
+            ],
+            "rad": 2,
+            "value": 2,
+            "effect": []
+          },
+          {
+            "name": "mirelurk meat",
+            "hp": [
+              "+1d6"
+            ],
+            "rad": 2,
+            "value": 2,
+            "effect": []
+          },
+          {
+            "name": "molerat meat",
+            "hp": [
+              "+1d6"
+            ],
+            "rad": 2,
+            "value": 2,
+            "effect": []
+          },
+          {
+            "name": "molerat stew",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 1,
+            "value": 3,
+            "effect": []
+          },
+          {
+            "name": "nuka-cola",
+            "hp": [
+              "+1d10"
+            ],
+            "rad": 1,
+            "value": 4,
+            "effect": [
+              "+1 bottlecap+1 lck mod for 2 rounds"
+            ]
+          },
+          {
+            "name": "nuka-cola quantum",
+            "hp": [
+              "+1d12"
+            ],
+            "rad": 2,
+            "value": 15,
+            "effect": [
+              "+1 bottlecap+1 lck mod for 2 roundsgain a bonus major action"
+            ]
+          },
+          {
+            "name": "nuka-cola quartz",
+            "hp": [
+              "+1d10"
+            ],
+            "rad": 1,
+            "value": 5,
+            "effect": [
+              "+1 bottlecap+1 lck mod for 2 roundsgain darkvision for 3 rounds"
+            ]
+          },
+          {
+            "name": "nuka-cola victory",
+            "hp": [
+              "+1d12"
+            ],
+            "rad": 1,
+            "value": 5,
+            "effect": [
+              "+1 bottlecap+2 lck mod for 3 rounds"
+            ]
+          },
+          {
+            "name": "pork n\u2019 beans",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 1,
+            "value": 3,
+            "effect": [
+              "+1 rad"
+            ]
+          },
+          {
+            "name": "potato crisps",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 1,
+            "value": 3,
+            "effect": []
+          },
+          {
+            "name": "purified water",
+            "hp": [
+              "+1d10"
+            ],
+            "rad": 0,
+            "value": 5,
+            "effect": []
+          },
+          {
+            "name": "squirrel-on-a-stick",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 1,
+            "value": 2,
+            "effect": []
+          },
+          {
+            "name": "sugar bombs",
+            "hp": [
+              "+1d8"
+            ],
+            "rad": 1,
+            "value": 3,
+            "effect": [
+              "+1 agl mod for 2 rounds"
+            ]
+          },
+          {
+            "name": "sunset sarsaparilla",
+            "hp": [
+              "+1d10"
+            ],
+            "rad": 1,
+            "value": 5,
+            "effect": [
+              "+1 bottlecap or +1 star bottlecap (dc 15 luck check)+1 lck mod for 2 rounds"
+            ]
+          },
+          {
+            "name": "yao guai meat",
+            "hp": [
+              "+1d10"
+            ],
+            "rad": 2,
+            "value": 4,
+            "effect": [
+              "+1 str mod for 2 rounds"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "miscellaneous",
+    "content": [
+      {
+        "items": [
+          {
+            "name": "abraxo cleaner",
+            "value": 5,
+            "weight": 1,
+            "component in": [
+              "nuka-grenade"
+            ]
+          },
+          {
+            "name": "acoustic guitar",
+            "value": 40,
+            "weight": 5,
+            "component in": []
+          },
+          {
+            "name": "ashtray",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "baseball",
+            "value": 2,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "baseball glove",
+            "value": 4,
+            "weight": 0,
+            "component in": [
+              "improved grip"
+            ]
+          },
+          {
+            "name": "basketball",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "binoculars",
+            "value": 10,
+            "weight": 1,
+            "component in": [
+              "12x scope"
+            ]
+          },
+          {
+            "name": "bobby pin",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "bonesaw",
+            "value": 5,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "bottlecap",
+            "value": 1,
+            "weight": 0,
+            "component in": [
+              "bottlecap mine"
+            ]
+          },
+          {
+            "name": "box of detergent",
+            "value": 1,
+            "weight": 1,
+            "component in": [
+              "rocket"
+            ]
+          },
+          {
+            "name": "brahmin skull",
+            "value": 1,
+            "weight": 2,
+            "component in": []
+          },
+          {
+            "name": "brotherhood of steel holotag",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "butter knife",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "camera",
+            "value": 5,
+            "weight": 1,
+            "component in": [
+              "maglite"
+            ]
+          },
+          {
+            "name": "caravan deck",
+            "value": 5,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "carton of cigarettes",
+            "value": 40,
+            "weight": 2,
+            "component in": []
+          },
+          {
+            "name": "cazador poison gland",
+            "value": 85,
+            "weight": 1,
+            "component in": [
+              "turbo"
+            ]
+          },
+          {
+            "name": "centaur blood",
+            "value": 15,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "cherry bomb",
+            "value": 5,
+            "weight": 1,
+            "component in": [
+              "bottlecap mine"
+            ]
+          },
+          {
+            "name": "chessboard",
+            "value": 1,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "clipboard",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "coffee mug",
+            "value": 1,
+            "weight": 0,
+            "component in": [
+              "black coffee"
+            ]
+          },
+          {
+            "name": "coffee pot",
+            "value": 1,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "conductor",
+            "value": 30,
+            "weight": 5,
+            "component in": [
+              "rock-it launcher"
+            ]
+          },
+          {
+            "name": "container of chlorine",
+            "value": 45,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "crutch",
+            "value": 5,
+            "weight": 2,
+            "component in": [
+              "railway rifle"
+            ]
+          },
+          {
+            "name": "cup",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "cutting board",
+            "value": 1,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "deathclaw hand",
+            "value": 75,
+            "weight": 3,
+            "component in": [
+              "deathclaw gauntlet"
+            ]
+          },
+          {
+            "name": "dinner plate",
+            "value": 1,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "dino toy",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "dog bowl",
+            "value": 1,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "doggie treat",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "drinking glass",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "duct tape",
+            "value": 5,
+            "weight": 1,
+            "component in": [
+              "12x scope",
+              "acog scope",
+              "piece bayonet",
+              "slash bayonet"
+            ]
+          },
+          {
+            "name": "egg timer",
+            "value": 1,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "empty soda bottle",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "empty syringe",
+            "value": 8,
+            "weight": 1,
+            "component in": [
+              "stimpak"
+            ]
+          },
+          {
+            "name": "firehose nozzle",
+            "value": 5,
+            "weight": 1,
+            "component in": [
+              "foregrip",
+              "rock-it launcher"
+            ]
+          },
+          {
+            "name": "fission battery",
+            "value": 75,
+            "weight": 6,
+            "component in": [
+              "railway rifle"
+            ]
+          },
+          {
+            "name": "flour",
+            "value": 2,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "food additive",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "forceps",
+            "value": 5,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "fork",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "garden gnome",
+            "value": 1,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "gecko hide",
+            "value": 10,
+            "weight": 2,
+            "component in": []
+          },
+          {
+            "name": "glass pitcher",
+            "value": 1,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "golden gecko hide",
+            "value": 20,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "golf ball",
+            "value": 1,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "hammer",
+            "value": 3,
+            "weight": 2,
+            "component in": []
+          },
+          {
+            "name": "harmonica",
+            "value": 2,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "hot plate",
+            "value": 5,
+            "weight": 2,
+            "component in": []
+          },
+          {
+            "name": "iron",
+            "value": 5,
+            "weight": 2,
+            "component in": []
+          },
+          {
+            "name": "lawn mower blade",
+            "value": 10,
+            "weight": 2,
+            "component in": [
+              "shishkebab"
+            ]
+          },
+          {
+            "name": "leaf blower",
+            "value": 15,
+            "weight": 2,
+            "component in": [
+              "rock-it launcher"
+            ]
+          },
+          {
+            "name": "leather belt",
+            "value": 5,
+            "weight": 0,
+            "component in": [
+              "deathclaw gauntlet",
+              "super stimpak"
+            ]
+          },
+          {
+            "name": "lunchbox",
+            "value": 3,
+            "weight": 1,
+            "component in": [
+              "bottlecap mine"
+            ]
+          },
+          {
+            "name": "magnifying glass",
+            "value": 2,
+            "weight": 1,
+            "component in": [
+              "acog scope"
+            ]
+          },
+          {
+            "name": "medical brace",
+            "value": 1,
+            "weight": 2,
+            "component in": [
+              "deathclaw gauntlet"
+            ]
+          },
+          {
+            "name": "microphone stand",
+            "value": 2,
+            "weight": 2,
+            "component in": [
+              "bipod"
+            ]
+          },
+          {
+            "name": "milk bottle",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "motorcycle gas tank",
+            "value": 25,
+            "weight": 5,
+            "component in": [
+              "shishkebab"
+            ]
+          },
+          {
+            "name": "motorcycle handbrake",
+            "value": 15,
+            "weight": 0,
+            "component in": [
+              "shishkebab"
+            ]
+          },
+          {
+            "name": "ncr dogtag",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "nightstalker blood",
+            "value": 5,
+            "weight": 1,
+            "component in": [
+              "antidote"
+            ]
+          },
+          {
+            "name": "nuka-cola truck",
+            "value": 5,
+            "weight": 2,
+            "component in": []
+          },
+          {
+            "name": "ophthalmoscope",
+            "value": 4,
+            "weight": 0,
+            "component in": [
+              "laser sight"
+            ]
+          },
+          {
+            "name": "pack of cigarettes",
+            "value": 10,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "paint gun",
+            "value": 15,
+            "weight": 3,
+            "component in": [
+              "dart gun"
+            ]
+          },
+          {
+            "name": "paperweight",
+            "value": 1,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "pencil",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "pilot light",
+            "value": 14,
+            "weight": 1,
+            "component in": [
+              "shishkebab"
+            ]
+          },
+          {
+            "name": "ping pong ball",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "plunger",
+            "value": 1,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "pool ball",
+            "value": 2,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "pot",
+            "value": 1,
+            "weight": 2,
+            "component in": []
+          },
+          {
+            "name": "pressure cooker",
+            "value": 15,
+            "weight": 5,
+            "component in": [
+              "railway rifle"
+            ]
+          },
+          {
+            "name": "pre-war book",
+            "value": 1,
+            "weight": 1,
+            "component in": []
+          },
+          {
+            "name": "pre-war money",
+            "value": 10,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "radscorpion poison gland",
+            "value": 25,
+            "weight": 1,
+            "component in": [
+              "antidote",
+              "dart gun"
+            ]
+          },
+          {
+            "name": "rake",
+            "value": 1,
+            "weight": 2,
+            "component in": []
+          },
+          {
+            "name": "rocket souvenir",
+            "value": 3,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "scalpel",
+            "value": 8,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "scissors",
+            "value": 3,
+            "weight": 0,
+            "component in": [
+              "improved grip",
+              "razor wire wrapping"
+            ]
+          },
+          {
+            "name": "scrap electronics",
+            "value": 1,
+            "weight": 1,
+            "component in": [
+              "laser sight",
+              "pulse generator"
+            ]
+          },
+          {
+            "name": "scrap metal",
+            "value": 1,
+            "weight": 1,
+            "component in": [
+              "1",
+              "5x scope",
+              "foregrip",
+              "heat coils"
+            ]
+          },
+          {
+            "name": "sensor module",
+            "value": 30,
+            "weight": 2,
+            "component in": [
+              "auto-inject stimpak",
+              "auto-inject super stimpak",
+              "bottlecap mine",
+              "pulse generator"
+            ]
+          },
+          {
+            "name": "shot glass",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "spatula",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "spork",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "steam gauge assembly",
+            "value": 25,
+            "weight": 10,
+            "component in": [
+              "railway rifle"
+            ]
+          },
+          {
+            "name": "star bottle cap",
+            "value": 10,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "surgical tubing",
+            "value": 10,
+            "weight": 0,
+            "component in": [
+              "dart gun"
+            ]
+          },
+          {
+            "name": "teddy bear",
+            "value": 3,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "tin can",
+            "value": 1,
+            "weight": 0,
+            "component in": [
+              "nuka-grenade"
+            ]
+          },
+          {
+            "name": "tin plate",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "toaster",
+            "value": 5,
+            "weight": 3,
+            "component in": [
+              "heat coils"
+            ]
+          },
+          {
+            "name": "toy car",
+            "value": 5,
+            "weight": 0,
+            "component in": [
+              "dart gun"
+            ]
+          },
+          {
+            "name": "triangle",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "turpentine",
+            "value": 10,
+            "weight": 2,
+            "component in": [
+              "nuka-grenade"
+            ]
+          },
+          {
+            "name": "tweezers",
+            "value": 3,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "vacuum cleaner",
+            "value": 20,
+            "weight": 10,
+            "component in": [
+              "rock-it launcher"
+            ]
+          },
+          {
+            "name": "wonderglue",
+            "value": 10,
+            "weight": 0,
+            "component in": [
+              "bipod",
+              "deathclaw gauntlet"
+            ]
+          },
+          {
+            "name": "wood chipper",
+            "value": 25,
+            "weight": 50,
+            "component in": []
+          },
+          {
+            "name": "wrench",
+            "value": 1,
+            "weight": 0,
+            "component in": []
+          },
+          {
+            "name": "yeast",
+            "value": 2,
+            "weight": 1,
+            "component in": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "crafting lists",
+    "content": [
+      {
+        "type": "weapons",
+        "items": [
+          {
+            "name": "dart gun",
+            "relevant skill": "repair",
+            "crafting dc": "dc 10",
+            "components": "1x paint gun1x radscorpion poison gland1x surgical tubing1x toy car"
+          },
+          {
+            "name": "deathclaw gauntlet",
+            "relevant skill": "repair",
+            "crafting dc": "dc 12",
+            "components": "1x deathclaw hand1x leather belt1x medical brace1x wonderglue"
+          },
+          {
+            "name": "railway rifle",
+            "relevant skill": "repair",
+            "crafting dc": "dc 14",
+            "components": "1x crutch1x fission battery1x pressure cooker1x steam gauge assembly"
+          },
+          {
+            "name": "rock-it launcher",
+            "relevant skill": "repair",
+            "crafting dc": "dc 12",
+            "components": "1x conductor1x firehose nozzle1x leaf blower1x vacuum cleaner"
+          },
+          {
+            "name": "shishkebab",
+            "relevant skill": "repair",
+            "crafting dc": "dc 14",
+            "components": "1x lawn mower blade1x motorcycle gas tank1x motorcycle handbrake1x pilot light"
+          }
+        ]
+      },
+      {
+        "type": "accessories",
+        "items": [
+          {
+            "name": "1.5x scope",
+            "relevant skill": "repair",
+            "crafting dc": "dc 12",
+            "components": "1x reading glasses2x scrap metal"
+          },
+          {
+            "name": "12x scope",
+            "relevant skill": "repair",
+            "crafting dc": "dc 12",
+            "components": "2x duct tape1x binoculars"
+          },
+          {
+            "name": "acog scope",
+            "relevant skill": "repair",
+            "crafting dc": "dc 12",
+            "components": "2x duct tape1x magnifying glass"
+          },
+          {
+            "name": "bipod",
+            "relevant skill": "repair",
+            "crafting dc": "dc 10",
+            "components": "1x microphone stand2x wonderglue"
+          },
+          {
+            "name": "foregrip",
+            "relevant skill": "repair",
+            "crafting dc": "dc 10",
+            "components": "1x firehose nozzle2x scrap metal"
+          },
+          {
+            "name": "heat coils",
+            "relevant skill": "repair",
+            "crafting dc": "dc 12",
+            "components": "1x toaster2x scrap metal"
+          },
+          {
+            "name": "improved grip",
+            "relevant skill": "repair",
+            "crafting dc": "dc 10",
+            "components": "1x baseball glove1x scissors"
+          },
+          {
+            "name": "laser sight",
+            "relevant skill": "repair",
+            "crafting dc": "dc 12",
+            "components": "1x ophthalmoscope2x scrap electronics"
+          },
+          {
+            "name": "maglite",
+            "relevant skill": "repair",
+            "crafting dc": "dc 10",
+            "components": "1x camera2x mf cell"
+          },
+          {
+            "name": "pierce bayonet",
+            "relevant skill": "repair",
+            "crafting dc": "dc 12",
+            "components": "1x rebar spear2x duct tape"
+          },
+          {
+            "name": "pulse generator",
+            "relevant skill": "repair",
+            "crafting dc": "dc 12",
+            "components": "1x sensor module2x scrap electronics"
+          },
+          {
+            "name": "razor wire wrapping",
+            "relevant skill": "repair",
+            "crafting dc": "dc 12",
+            "components": "5x scissors1x surgical tubing"
+          },
+          {
+            "name": "slash bayonet",
+            "relevant skill": "repair",
+            "crafting dc": "dc 12",
+            "components": "1x combat knife2x duct tape"
+          }
+        ]
+      },
+      {
+        "type": "combat tools",
+        "items": [
+          {
+            "name": "bottlecap mine",
+            "relevant skill": "repair",
+            "crafting dc": "dc 12",
+            "components": "10x bottlecaps5x cherry bomb1x lunchbox1x sensor module"
+          },
+          {
+            "name": "ied",
+            "relevant skill": "repair",
+            "crafting dc": "dc 10",
+            "components": ""
+          },
+          {
+            "name": "molotov cocktail",
+            "relevant skill": "repair",
+            "crafting dc": "dc 8",
+            "components": "1x flamer fuel cannister1x soda bottle"
+          },
+          {
+            "name": "nuka-grenade",
+            "relevant skill": "repair",
+            "crafting dc": "dc 14",
+            "components": "1x abraxo cleaner1x nuka-cola quantum1x tin can1x turpentine"
+          },
+          {
+            "name": "pipe bomb",
+            "relevant skill": "repair",
+            "crafting dc": "dc 10",
+            "components": ""
+          },
+          {
+            "name": "satchel charge",
+            "relevant skill": "repair",
+            "crafting dc": "dc 12",
+            "components": ""
+          }
+        ]
+      },
+      {
+        "type": "aid",
+        "items": [
+          {
+            "name": "antidote",
+            "relevant skill": "survival",
+            "crafting dc": "dc 8",
+            "components": "1x nightstalker blood1x radscorpion poison gland"
+          },
+          {
+            "name": "auto-inject stimpak",
+            "relevant skill": "science",
+            "crafting dc": "dc 10",
+            "components": "1x sensor module1x stimpak"
+          },
+          {
+            "name": "auto-inject super stimpak",
+            "relevant skill": "science",
+            "crafting dc": "dc 12",
+            "components": "1x sensor module1x super stimpak"
+          },
+          {
+            "name": "healing powder",
+            "relevant skill": "survival",
+            "crafting dc": "dc 8",
+            "components": "1x broc flower1x xander root"
+          },
+          {
+            "name": "stimpak",
+            "relevant skill": "medicine",
+            "crafting dc": "dc 10",
+            "components": "1x broc flower1x empty syringe1x xander root"
+          },
+          {
+            "name": "super stimpak",
+            "relevant skill": "medicine",
+            "crafting dc": "dc 12",
+            "components": "1x leather belt1x mutfruit1x nuka-cola1x stimpak"
+          }
+        ]
+      },
+      {
+        "type": "chems",
+        "items": [
+          {
+            "name": "rocket",
+            "relevant skill": "science",
+            "crafting dc": "dc 8",
+            "components": "1x box of detergent 1x jet1x nuka-cola"
+          },
+          {
+            "name": "slasher",
+            "relevant skill": "science",
+            "crafting dc": "dc 10",
+            "components": "1x banana yucca fruit1x psycho1x med-x"
+          },
+          {
+            "name": "turbo",
+            "relevant skill": "science",
+            "crafting dc": "dc 12",
+            "components": "1x broc flower1x cazador poison gland1x jet1x turpentine"
+          }
+        ]
+      },
+      {
+        "type": "food",
+        "items": [
+          {
+            "name": "atomic cocktail",
+            "relevant skill": "survival",
+            "crafting dc": "dc 8",
+            "components": "1x mentats1x nuka-cola1x vodka"
+          },
+          {
+            "name": "black coffee",
+            "relevant skill": "survival",
+            "crafting dc": "dc 6",
+            "components": "1x coffee mug1x coyote tobacco chew1x honey mesquite pod"
+          },
+          {
+            "name": "bloatfly slider",
+            "relevant skill": "survival",
+            "crafting dc": "dc 6",
+            "components": "1x bloatfly meat"
+          },
+          {
+            "name": "brahmin steak",
+            "relevant skill": "survival",
+            "crafting dc": "dc 8",
+            "components": "1x brahmin meat"
+          },
+          {
+            "name": "dog steak",
+            "relevant skill": "survival",
+            "crafting dc": "dc 6",
+            "components": "1x dog meat"
+          },
+          {
+            "name": "molerat stew",
+            "relevant skill": "survival",
+            "crafting dc": "dc 6",
+            "components": "1x beer1x maize1x molerat meat"
+          },
+          {
+            "name": "nuka-cola",
+            "relevant skill": "survival",
+            "crafting dc": "dc 8",
+            "components": "1x bottlecap1x barrel cactus fruit1x empty soda bottle1x nevada agave fruit"
+          },
+          {
+            "name": "nuka-cola quartz",
+            "relevant skill": "science",
+            "crafting dc": "dc 10",
+            "components": "3x nuka-cola"
+          },
+          {
+            "name": "nuka-cola victory",
+            "relevant skill": "science",
+            "crafting dc": "dc 10",
+            "components": "3x nuka-cola"
+          },
+          {
+            "name": "purified water",
+            "relevant skill": "survival",
+            "crafting dc": "dc 10",
+            "components": "1x dirty water1x glass pitcher1x surgical tubing"
+          },
+          {
+            "name": "sunset sarsaparilla",
+            "relevant skill": "survival",
+            "crafting dc": "dc 8",
+            "components": "1x bottlecap"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+[style]
+based_on_style = facebook
+dedent_closing_brackets = True
+coalesce_brackets = True
